@@ -85,9 +85,9 @@ public class PartCatalog {
 
    
 1. Individually, implement the `calculateWordCounts()` method in the `DevicePartDiscovery` class in the 
-   `com.amazon.ata.maps.classroom.partsdiscovery` package. The tests in 
+   `com.amazon.ata.maps.partsdiscovery` package. The tests in 
    `DevicePartDiscoveryCalculateWordCountsTest` will ensure you have implemented it correctly. 
-   You can run these from IntelliJ or run the `maps-classroom-partA` workflow to execute these tests. 
+   You can run these from IntelliJ or use the gradle command `./gradlew -q clean :test --tests DevicePartDiscoveryWordCountsTest` to execute these tests. 
    When your tests are passing, check the box next to your role. If you get stuck, use your group! If your 
    question still can’t be answered, request that an instructor visits your group.
 
@@ -120,8 +120,9 @@ count map. Next, you will be implementing the method: `void removeWord(String wo
 
 1. Individually, implement the `removeWord()` method in the `DevicePartDiscovery` class. 
    The tests in `DevicePartDiscoveryRemoveWordTest` will ensure you have implemented it 
-   correctly. You can run these from IntelliJ or run the `maps-classroom-partB` workflow 
-   to execute these tests. When your tests are passing, check the box next to your role. If you 
+   correctly. You can run these from IntelliJ or run the 
+   `./gradlew -q clean :test --tests DevicePartDiscoveryRemoveWordTest` 
+   gradle command to execute these tests. When your tests are passing, check the box next to your role. If you 
    get stuck, use your group! If your question still can’t be answered, request that an 
    instructor visits your group.
 
@@ -155,7 +156,7 @@ frequent word in our word counts map. You will be implementing the method:
 1. Individually, implement the `getMostFrequentWord()` method in the `DevicePartDiscovery` 
    class. The tests in `DevicePartDiscoveryGetMostFrequentWordTest` will ensure you have 
    implemented it correctly. You can run these from IntelliJ or run the 
-   `maps-classroom-partC` workflow to execute these tests. When your tests are passing, 
+   `./gradlew -q clean :test --tests DevicePartDiscoveryGetMostFrequentWordTest` gradle command to execute these tests. When your tests are passing, 
    check the box next to your role. If you get stuck, use your group! If your question still can’t 
    be answered, request that an instructor visits your group.
 
@@ -226,9 +227,9 @@ word in a catalog. The wordCounts are provided to you, as well as the TF-IDF sco
 1. Why do we use a `Double` as the `Map`’s value in our return from  `getTfIdfScores()`? Why not an `Integer`? 
 
 1. Individually, implement the `getTfIdfScores()` method in the `DevicePartDiscovery` class in 
-   the `com.amazon.ata.maps.classroom.partsdiscovery` package. The tests in 
-   `DevicePartDiscoveryCalculateTfIdfTest` will ensure you have implemented it correctly. You 
-   can run these from IntelliJ or run the `maps-classroom-partD` workflow to execute these 
+   the `com.amazon.ata.maps.partsdiscovery` package. The tests in 
+   `DevicePartDiscoveryCalculateTfIdfScoresTest` will ensure you have implemented it correctly. You 
+   can run these from IntelliJ or run the `./gradlew -q clean :test --tests DevicePartDiscoveryCalculateTfIdfScoresTest` gradle command to execute these 
    tests. When your tests are passing, include your alias here. If you get stuck, 
    use your group! If your question still can’t be answered, request that an instructor 
    visits your group.
@@ -261,10 +262,10 @@ You will be implementing the method:
 [Hint: here's a javadoc to help!](https://docs.oracle.com/javase/8/docs/api/java/util/Map.Entry.html)
 
 1. Individually, implement the `getBestScoredWords()` method in the `DevicePartDiscovery` class in 
-   the `com.amazon.ata.maps.classroom.partsdiscovery` package. The tests in 
+   the `com.amazon.ata.maps.partsdiscovery` package. The tests in 
    `DevicePartDiscoveryGetBestScoredWordTest` will ensure you have implemented it correctly. You 
-   can run these from IntelliJ or run the `maps-classroom-extension1` workflow to execute these 
-   tests. When your tests are passing, include your alias here. If you get stuck, 
+   can run these from IntelliJ or run the `./gradlew -q clean :test --tests DevicePartDiscoveryGetBestScoredWrodTest` 
+   gradle command to execute these tests. When your tests are passing, include your alias here. If you get stuck, 
    use your group! If you are still stuck, and are working on this outside of class time, please file
    a CQA and sign up for Office Hours to discuss this with an instructor or TA.
    
@@ -332,9 +333,9 @@ Before implementing, consider:
     [Here is a javadoc that may help](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)
    
 1. Individually, implement the `calculateIdfScores()` method in the `DevicePartDiscovery` class in 
-   the `com.amazon.ata.maps.classroom.partsdiscovery` package. The tests in 
+   the `com.amazon.ata.maps.partsdiscovery` package. The tests in 
    `DevicePartDiscoveryCalculateIdfScoresTest` will ensure you have implemented it correctly. You 
-   can run these from IntelliJ or run the `maps-classroom-extension2` workflow to execute these 
+   can run these from IntelliJ or run the `./gradlew -q clean :test --tests DevicePartDiscoveryCalculateIdfScoresTest` gradle command to execute these 
    tests. When your tests are passing, include your alias here. If you get stuck, 
    use your group! If you are still stuck, and are working on this outside of class time, please file
    a CQA and sign up for Office Hours to discuss this with an instructor or TA.
