@@ -1,0 +1,343 @@
+A Series Circuit Breakers
+Carling Technologies A Series Circuit Breakers are compact, temperature stable hydraulic magnetic circuit breakers designed for precision operation in OEM markets requiring general purpose and full load amp applications. The visi-rocker or paddle actuators offer a clean, contemporary design for front panel operations.
+Manufacturer:Carling Technologies
+Product Category:Circuit Breakers
+RoHS: Details
+Series:A
+Product:A-Series Hydraulic Magnetic Circuit Breakers
+Type:A-Series Hydraulic Magnetic Circuit Breakers
+Current Rating:30 A
+Voltage Rating AC:277 VAC
+Voltage Rating DC:80 VDC
+Number of Poles:2 Pole
+Actuator Type:Handle
+Minimum Operating Temperature:- 40 C
+Maximum Operating Temperature:+ 85 C
+Illuminated:Not Illuminated
+Height:50.8 mm
+Length:41.66 mm
+Termination Style:Screw
+Voltage Rating:12 VDC, 120 VAC
+Width:19.18 mm
+Brand:Carling Technologies
+Mounting Style:Threaded
+Factory Pack Quantity:1
+Subcategory:Circuit Breakers
+Well known for their proven reliability, Carling Technologies’ A-Series hydraulic magnetic circuit breakers are
+compact, temperature stable and designed for precision operation in OEM markets requiring general purpose
+as well as full load amp applications. When front panel operation and aesthetics demand a clean, contemporary
+design, the visi-rocker or paddle actuators are ideally suitable. A sealed toggle actuator style is also available and
+ideal for harsh environment applications requiring additional sealing protection. Optional rocker-guard and pushto-reset bezels, which help prevent inadvertent actuation, are also available.
+Product Highlights:
+•	 Up to 50 amps in a compact size
+•	 Various actuator styles
+•	 Sealed metal toggle option tested to
+	 MIL-PRF-55629C. Meets IP68
+	 Requirements
+Typical Applications:
+•	 Telecom / Datacom
+•	 Marine
+•	 Military
+•	 Renewable Energy
+•	 Generators & Welder
+One, two and three pole thermal-magnetic circuit breakers with tripfree
+mechanism and toggle actuation (S-type TM CBE to EN 60934/IEC
+934). Designed for panel or plug-in mounting. Available with auxiliary
+contacts (1 x N/O, 1 x N/C) for status signalling. Two and three pole
+models are internally linked to ensure that both/all poles trip in the
+event of an overload on one pole, even if the actuator is held in the ON
+position. A choice of characteristic curves further extends the range
+of applications possibilities for these CBEs. Special auxiliary contact
+versions for industrial atmosphere and low voltages (e. g. 5 V) available
+on request.
+Approved to CBE standard EN 60934 (IEC 60934).
+Suitable for use in distribution rails – see section Power Distribution
+Systems.
+Thermal-Magnetic Circuit Breaker
+Process control equipment, robotics, machine tool control, communications
+systems, instrumentation, rail vehicles. Special versions, e.g. for aggressive
+environmental conditions and low voltages (e. g. 5 V) on request
+Manufacturer:E-T-A Circuit Breakers
+Product Category:Circuit Breakers
+RoHS: Details
+Series:2210-S2
+Product:Circuit Breakers
+Type:Thermal Magnetic Circuit Breaker
+Current Rating:4 A
+Voltage Rating AC:433 VAC
+Voltage Rating DC:65 VDC
+Number of Poles:1 Pole
+Actuator Type:Toggle
+Minimum Operating Temperature:- 30 C
+Maximum Operating Temperature:+ 60 C
+Illuminated:Not Illuminated
+Height:78.5 mm
+Length:50 mm
+Termination Style:Quick Connect
+Voltage Rating:433 VAC, 65 VDC
+Width:10.99 mm
+Brand:E-T-A
+Mounting Style:Panel Mount
+Subcategory:Circuit Breakers
+Manufacturer:Neutrik
+Product Category:XLR Connectors
+RoHS: Details
+Product:Connectors
+Standard:Standard XLR
+Number of Positions:3 Position
+Gender:Female
+Termination Style:Solder Cup
+Mounting Style:Panel
+Contact Plating:Gold
+Orientation:Straight
+Contact Material:Brass
+Voltage Rating:50 V
+Current Rating:16 A
+Series:X
+Color:Black
+Packaging:Bulk
+Brand:Neutrik
+Mating Cycles:1000 Cycle
+Product Type:XLR Connectors
+Factory Pack Quantity:250
+Subcategory:Audio & Video Connectors
+Unit Weight:0.546746 oz
+XLR Cable Connectors
+Neutrik XLR Cable Connectors are the most well known series of products manufactured by Neutrik, and have provided the professional audio industry a simple, yet striking, concept in connector features. Today it is the accepted standard worldwide. XLR connectors are part of almost every aspect of professional audio; as a microphone connector, in lighting systems, and found in almost any piece of sound equipment in the entertainment industry. The outstanding success of our XLR products is Neutrik’s blend of innovation with the highest quality performance.
+
+
+True Outdoor Protection (TOP) Connectors
+Neutrik True Outdoor Protection (TOP) Connectors feature an IP65 rating, are UV resistant certified according to UL50E, and are ideal for wet locations and outdoor applications. The TOP connectors include the powerCON® TRUE1®, etherCON®, and XLR series. These ruggedized, sealed connectors protect from dust, moisture, water, and sunlight. Neutrik True Outdoor Protection Connectors meet IEC 61076-2-103, IEC 60320-1, UL 1977, and UL 498 standards.
+
+
+XLR TOP Heavy Duty Sealed Connectors
+Neutrik XLR TOP Connectors are a range of heavy-duty sealed connectors that includes 3- and 5-pin chassis and cable types. Neutrik XLR TOP male and female chassis connectors are made of high-impact UV resistant materials per UL. The connectors maintain water tightness to IP65 in mated or unmated conditions. The cable connectors feature the same outstanding bushing design as the etherCON TOP cable connectors.
+Manufacturer:Neutrik
+Product Category:XLR Connectors
+RoHS: Details
+Product:Connectors
+Standard:Standard XLR
+Number of Positions:3 Position
+Gender:Male
+Termination Style:Solder Cup
+Mounting Style:Cable
+Contact Plating:Gold
+Orientation:Straight
+Contact Material:Brass
+Voltage Rating:50 V
+Current Rating:16 A
+Series:X
+Color:Black
+Packaging:Bulk
+Brand:Neutrik
+Mating Cycles:1000 Cycle
+Product Type:XLR Connectors
+Factory Pack Quantity:250
+Subcategory:Audio & Video Connectors
+Unit Weight:1.069859 oz
+XLR Cable Connectors
+Neutrik XLR Cable Connectors are the most well known series of products manufactured by Neutrik, and have provided the professional audio industry a simple, yet striking, concept in connector features. Today it is the accepted standard worldwide. XLR connectors are part of almost every aspect of professional audio; as a microphone connector, in lighting systems, and found in almost any piece of sound equipment in the entertainment industry. The outstanding success of our XLR products is Neutrik’s blend of innovation with the highest quality performance.
+
+
+True Outdoor Protection (TOP) Connectors
+Neutrik True Outdoor Protection (TOP) Connectors feature an IP65 rating, are UV resistant certified according to UL50E, and are ideal for wet locations and outdoor applications. The TOP connectors include the powerCON® TRUE1®, etherCON®, and XLR series. These ruggedized, sealed connectors protect from dust, moisture, water, and sunlight. Neutrik True Outdoor Protection Connectors meet IEC 61076-2-103, IEC 60320-1, UL 1977, and UL 498 standards.
+
+
+XLR TOP Heavy Duty Sealed Connectors
+Neutrik XLR TOP Connectors are a range of heavy-duty sealed connectors that includes 3- and 5-pin chassis and cable types. Neutrik XLR TOP male and female chassis connectors are made of high-impact UV resistant materials per UL. The connectors maintain water tightness to IP65 in mated or unmated conditions. The cable connectors feature the same outstanding bushing design as the etherCON TOP cable connectors.
+Manufacturer:PUI Audio
+Product Category:Microphones
+Impedance:680 Ohm
+Current Rating:0.5 mA
+Sensitivity:- 47 dB
+Termination Style:Solder Pads
+Diameter:9.7 mm
+Length:60 mm
+Depth:5 mm
+Operating Supply Voltage:10 V
+Brand:PUI Audio
+Product Type:Microphones
+Subcategory:Audio Devices
+Manufacturer:Knowles
+Product Category:MEMS Microphones
+RoHS: Details
+Series:SPH
+Sensitivity:- 38 dB
+SNR - Signal to Noise Ratio:65 dB
+Operating Supply Current:145 uA
+Minimum Operating Temperature:- 40 C
+Maximum Operating Temperature:+ 100 C
+Output Type:Digital
+Port Type:Bottom
+Length:3.5 mm
+Width:2.65 mm
+Packaging:Cut Tape
+Packaging:MouseReel
+Packaging:Reel
+Directional Properties:Omnidirectional
+Termination Style:SMD/SMT
+Brand:Knowles Syfer
+Mounting Style:SMD/SMT
+Shape:Rectangular
+Product Type:MEMS Microphones
+Factory Pack Quantity:5900
+Subcategory:Microphones
+Supply Voltage - Max:3.6 V
+Supply Voltage - Min:1.5 V
+Tradename:SiSonic
+SP SiSonic™ MEMS Silicon Microphones
+Knowles SP Series SiSonic™ MEMS Silicon Microphones are high-performance, low power, top port silicon, digital miniature microphones. These digital microphones use SiSonic MEMS technology and consist of an acoustic sensor, a low noise input buffer, and either a sigma-delta modulator or output amplifier. Design variables include ever-smaller sizes, lower profiles and mounting options, increased output capacities, and new digital audio options that eliminate analog noise. Suitable applications include cellphones, smart phones, laptop computers, sensors, digital still cameras, portable music recorders, and other portable electronic devices where wideband audio performance and RF immunity are needed.
+HIGH SNR SUPPORT BOTTOM PORT
+SISONIC™ MICROPHONE
+Manufacturer:Storm Interface
+Product Category:Audio Modules
+RoHS: Details
+Product:Audio CODECs
+Operating Supply Voltage:5 V
+Maximum Operating Temperature:+ 70 C
+Dimensions:109 mm x 50 mm x 25 mm
+Series:AudioComm
+Brand:Storm Interface
+Minimum Operating Temperature:- 20 C
+Product Type:Audio Modules
+Subcategory:Embedded Solutions
+Part # Aliases:AT02-43001
+The following information is not a certification, merely a statement describing information obtained from the producer. Only the manufacturer is able to certify their product to environmental laws.
+Environmental Laws restrict the use of certain hazardous substances. “RoHS: Compliant” addresses the laws transposed from the European Union directive 2011/65/EU known as the RoHS Directive.
+
+The RoHS Compliance of any product so designated is based upon evidence from the producer (manufacturer) that the part number is in compliance with the RoHS Directive. Mouser Electronics has taken all reasonable steps to confirm producers' statements and other evidence regarding the absence of the restricted substances to support the manufacturers' claim of compliance.
+To the best of our knowledge the below referenced part is RoHS compliant per the producer’s documentation.
+
+Date:	10/17/2019
+Mouser Part #:	491-AT02-430016
+Mfr.'s Part #:	AT02-430016
+Mfr.:	Storm Interface
+Description:	Audio Modules AudioComm Microphone Module (Vertical, Silver)
+This information is valid when RoHS Compliance is indicated on your packing list from Mouser Electronics, Inc.
+
+Chuck Amsden
+ADA compliant sound processor and headset
+interface for audible and speech communication.
+The AudioComm Module is an accessible interface device
+providing high quality audio output to personal headsets,
+handsets or assistive hearing devices. It also features voice over
+USB capability via a headset microphone.
+Ideal for use with audible system navigation and voice
+activated applications, this device delivers clear, two way, audio
+communications in either high or low ambient noise conditions.
+It is robust and weather sealed for use in exposed public
+environments. Integral illumination of the headset jack socket and
+sound volume controls assist users with partial sight to locate the
+AudioComm Module. Embossed symbols (idents) make tactile
+location and identification of
+the headset jack socket and
+volume controls easier for
+blind users. Control switches
+are designed to enable
+operation with headsticks
+and other assistive styli.
+USB key-press codes can be changed or re-assigned
+using the Device Utility Software and API
+(available for download at storm-interface.com).
+• Default illumination status and device ‘wake-up’
+behaviour can be configured via the Device Utility
+Software and API.
+• Intensity of the integral backlighting can be
+adjusted or turned off when not in use via the
+Device Utility Software and API.
+• Headset connection is detected via a tip switch
+located in the jack plug socket.
+• Weather resistant construction for outdoor use.
+• Impact and abuse resistant.
+• The AudioComm Module is connected to the host
+system via a single USB cable (supplied separately).
+No additional drivers required.
+Manufacturer:Neutrik
+Product Category:Audio Modules
+RoHS: Details
+Product:Adapters
+Interface Type:Ethernet
+Maximum Operating Temperature:+ 70 C
+Dimensions:164 mm x 82 mm x 51 mm
+Packaging:Bulk
+Brand:Neutrik
+Minimum Operating Temperature:- 5 C
+Product Type:Audio Modules
+Factory Pack Quantity:1
+Subcategory:Embedded Solutions
+Tradename:Dante Interface
+NA2-IO-DLINE Line I/O to Dante® Interface
+Neutrik NA2-IO-DLINE Line I/O to Dante® Interface connects legacy audio equipment to the Dante world. NA2-IO-DLINE is an end-of-network breakout box that allows two channels of audio to be integrated into a Dante network. NA2-IO-DLINE simultaneously converts a Dante stream into analog audio signals. This device can be used to feed analog audio signals into the Dante network while at the same time receiving a mix from another Dante source. NA2-IO-DLINE is designed for harsh stage conditions. NA2-IO-DLINE features lockable chassis connectors for both the audio and network connections. For fixed installations, the rubber protection can be removed. With optional mounting brackets or a rack panel, the box can be mounted below tables, in floor boxes, or in equipment racks.
+1 About this document
+This user manual provides an overview of the necessary operation steps and settings on the product.
+1.1 Significance of the user manual
+This user manual is an integral component of the product and part of the product's safety
+concept.
+T Make sure that all persons who work with the product have fully read and also
+understood this user manual.
+T Observe all instructions exactly, especially the safety instructions.
+This user manual contains important information for safely and properly operating the
+product.
+T Keep this user manual in the immediate vicinity of the product so personnel have access
+to it at all times.
+T Pass this user manual on to every user, e.g., by lending it, or to the future owner of the product.
+T If this user manual is lost or damaged, a copy of it can be downloaded from the Neutrik's
+website (www.neutrik.com).
+1.2 Designations
+Designation Explanation
+DanteTM adapter DanteTM adapter NA2-IO-DLINE; to create the easy-to-read texts, the
+device is hereinafter referred to as DanteTM adapter.
+DanteTM audio
+networking
+DanteTM audio networking (hereinafter referred to as DanteTM) DanteTM
+stands for Digital Audio Network Through Ethernet and is an audio
+network protocol developed by the Australian company Audinate. DanteTM
+delivers uncompressed, multichannel, low-latency digital audio over a
+standard Ethernet network using Layer 3 IP packets.
+PoE Power over Ethernet; the device is supplied with power via the network
+connection.
+Peripheral devices All devices that can be connected to the DanteTM adapter: audio sources
+(transmitters) and audio sinks (receivers)
+Audio source All devices that emit an audio signal
+Audio sink All devices that receiv
+ Description of product
+3.1 What is the DanteTM adapter?
+The DanteTM adapter is an end-of-network device. It is a breakout box which allows two channels of
+audio to be integrated into a Dante™ network. Simultaneously, DanteTM adapter converts a Dante™
+stream into analog audio signals. Hence, it is possible to use this tiny box to feed analog audio signals
+into the Dante™ network while at the same time receiving a mix from another Dante™ source.
+The DanteTM adapter is designed for harsh stage conditions. It therefore features lockable chassis connectors for both the audio and network connections. For fixed installations, the rubber protection
+can be removed. With optional mounting brackets or a rack panel, the box can be mounted below
+tables, in floor boxes, or in equipment racks
+4.1 Preparations
+T Unpacking the DanteTM adapter.
+T Save packaging for later transport and storage.
+T Check the packaging and DanteTM adapter for visible damage.
+T When visible damage to the packaging and/or delivered parts is detected:
+Contact the salesperson or Neutrik sales partner.
+T Do not use damaged devices under any circumstances.
+4.2 Connecting devices with the DanteTM adapter
+The DanteTM adapter can be connected to a DanteTM network via a standard 100 Mb/s twisted-pair
+Ethernet cable (CAT5e). This individual connection is responsible for the data transfer as well as for
+the power supply. Depending on the cable length and shield, we do not recommend installing cables
+parallel to power supply lines.
+The DanteTM adapter requires a switch that supports PoE (48 V). If a switch without
+PoE support is available, a PoE injector (compatible with 802.3af or 802.3at) must be
+connected in series.
+w NOTICE
+Device damage due to a non-compliant PoE injector!
+Non-compliant PoE injectors can damage the DanteTM adapter. The warranty is invalidated in this
+case.
+T Only use a PoE injector that complies with IEEE 802.3af or 802.3at.
+T Connect the device depending on the desired
+application.
+e.g. audio source for LINE IN, audio sink for LINE OUT.
+T Connect the DanteTM adapter to the PoE switch using a
+network cable.
+T If the switch does not support PoE:
+Use a PoE injector.
+ LEDs light up once the DanteTM adapter is supplied with
+power via the switch or the PoE injector.
+ The DanteTM adapter is ready for operation.
+ Set up the desired audio connection with the "DanteTM
+controller" software.

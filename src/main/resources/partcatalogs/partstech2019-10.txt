@@ -1,0 +1,659 @@
+Manufacturer:Bourns
+Product Category:TVS Diodes / ESD Suppressors
+RoHS: Details
+Series:P6SMA-Q
+Product Type:TVS Diodes
+Polarity:Bidirectional
+Number of Channels:1 Channel
+Termination Style:SMD/SMT
+Breakdown Voltage:39 V
+Working Voltage:33.3 V
+Ipp - Peak Pulse Current:50 A
+Package / Case:DO-214AA-2
+Pppm - Peak Pulse Power Dissipation:600 W
+Minimum Operating Temperature:- 55 C
+Maximum Operating Temperature:+ 150 C
+Packaging:Cut Tape
+Packaging:MouseReel
+Packaging:Reel
+Brand:Bourns
+Factory Pack Quantity:3000
+Subcategory:TVS Diodes / ESD Suppression Diodes
+Vf - Forward Voltage:3.5 V
+P6SMB-Q Transient Voltage Suppressor Diode Series
+Bourns P6SMB-Q Transient Voltage Suppressor Diode Series meets the challenges of the semiconductor industry to develop increasingly smaller electronic components. The transient voltage suppressor diodes for surge and ESD protection applications, in compact chip package DO-214AA (SMB) size format. The transient voltage suppressor series offers a choice of breakdown voltages from 15V up to 68V typical fast response times are less than 1.0 picosecond for unidirectional devices and less than 5.0 picoseconds for bidirectional devices from 0V to minimum breakdown voltage. P4SMA-Q transient voltage suppressor diodes conform to JEDEC standards.
+Features
+n	 Surface Mount SMB package
+n Breakdown Voltage: 15 to 68 volts
+n	 Power Dissipation: 600 watts
+n	 RoHS compliant* and halogen free**
+n	 AEC-Q101 compliant***
+Applications
+n	 Protection of power buses
+n	 Protection of I/O interfaces
+n	 Overvoltage transient protection
+n	 Telecom, computer, industrial and
+	 consumer electronics applications
+	 P6SMB-Q Transient Voltage Suppressor Diode Series
+The markets of portable communications, computing and video equipment are challenging the semiconductor industry to develop
+increasingly smaller electronic components.
+Bourns offers Transient Voltage Suppressor Diodes for surge and ESD protection applications, in compact chip package DO-214AA (SMB)
+size format. The Transient Voltage Suppressor series offers a choice of Breakdown Voltages from 15 V up to 68 V. Typical fast response
+times are less than 1.0 picosecond for unidirectional devices and less than 5.0 picoseconds for bidirectional devices from 0 V to Minimum
+Breakdown Voltage.
+Bourns® Chip Diodes conform to JEDEC standards, are easy to handle with standard pick and place equipment and the flat configuration
+minimizes roll away.
+Manufacturer:Nexperia
+Product Category:TVS Diodes / ESD Suppressors
+RoHS: Details
+Product Type:ESD Suppressors
+Vesd - Voltage ESD Contact:20 kV
+Vesd - Voltage ESD Air Gap:20 kV
+Polarity:Bidirectional
+Number of Channels:3 Channel
+Termination Style:SMD/SMT
+Breakdown Voltage:6 V
+Ipp - Peak Pulse Current:9.5 A
+Cd - Diode Capacitance:0.29 pF
+Package / Case:WLCSP-15
+Minimum Operating Temperature:- 40 C
+Maximum Operating Temperature:+ 85 C
+Brand:Nexperia
+Factory Pack Quantity:4500
+Subcategory:TVS Diodes / ESD Suppression Diodes
+Vf - Forward Voltage:0.8 V
+Part # Aliases:PESD3USB3B/CX
+PESDxUSB3B/C ESD Protection
+Nexperia PESDxUSB3B/C ESD protection solutions are designed to offer Electrostatic Discharge (ESD) protection of up to 20 kV for up to three differential channels. The PESDxUSB3B/C types are part of Nexperia’s TrEOS protection family for a very high system level robustness that ensures superior protection for sensitive System on Chips (SoCs). PESDxUSB3B/C ESD protection are footprint-compatible with PCMFxUSB3B/C Common-Mode Filters with integrated ESD protection, allowing for design flexibility. Both PESDxUSB3B/C and PCMFxUSB3B/C series are available in WLCSP5, WLCSP10, and WLCSP15 packages which offer a minimized footprint.
+ElectroStatic Discharge (ESD) protection for one, two and three differential channels.
+The devices are footprint compatible to PCMFxUSB3B/C common mode filters with ESD
+protection.
+Diodes provide protection to downstream components from ESD voltages up to ±20 kV on each
+signal line.
+Allows switching between PCMFxUSB3B/C common mode filters with ESD protection and
+PESDxUSB3B/C ESD protection in the same footprint
+• TrEOS protection process for very high system-level ESD robustness: superior protection of
+sensitive Systems on Chips (SoCs)
+• ESD protection for one, two and three differential channels up to ±20 kV contact discharge
+according to IEC 61000-4-2
+• Industry-standard WLCSP5, 10 and 15 packages for smallest footprint
+• Bidirectional for audio line option
+• Smartphone, cellular and cordless phone
+• USB3.2, USB2.0, HDMI2.0, HDMI1.4
+• General-purpose downstream ESD protection for differential data lines
+• Tablet PC and Mobile Internet Device (MID)
+• MIPI D-PHY as used in Camera Serial Interface (CSI) and Display Serial Interface (DSI)
+An improved Black Coating (BC) material LC2844 was introduced from same Supplier Lintec to enhance the
+mechanical robustness during device handling. The qualification was executed for the complete product portfolio
+using Black Coating.
+We at Nexperia are the efficiency semiconductor company. We deliver over 70 billion products a year and as such
+service thousands of global customers, both directly and through our extensive network of channel partners. We are
+at the heart of billions of electronic devices in the Automotive, Mobile, Industrial, Consumer, Computing, and
+Communication Infrastructure segments.
+SiC Power Modules
+ROHM Semiconductor SiC power modules are Half Bridge SiC modules that integrate a SiC MOSFET and SiC SBD into a single package. These modules support high-frequency operation through reduced switching loss. The optimized design reduces stary inductance compared to existing solutions. And to prevent excessive heat generation, E Type models that integrate an additional thermistor are offered.
+SiC Power Modules
+ROHM Semiconductor SiC power modules are Half Bridge SiC modules that integrate a SiC MOSFET and SiC SBD into a single package. These modules support high-frequency operation through reduced switching loss. The optimized design reduces stary inductance compared to existing solutions. And to prevent excessive heat generation, E Type models that integrate an additional thermistor are offered.
+SiC Power Modules
+ROHM Semiconductor SiC power modules are Half Bridge SiC modules that integrate a SiC MOSFET and SiC SBD into a single package. These modules support high-frequency operation through reduced switching loss. The optimized design reduces stary inductance compared to existing solutions. And to prevent excessive heat generation, E Type models that integrate an additional thermistor are offered.
+SiC Power Modules
+ROHM Semiconductor SiC power modules are Half Bridge SiC modules that integrate a SiC MOSFET and SiC SBD into a single package. These modules support high-frequency operation through reduced switching loss. The optimized design reduces stary inductance compared to existing solutions. And to prevent excessive heat generation, E Type models that integrate an additional thermistor are offered.
+SiC module products that Rohm Co.,Ltd. sells are not applied to the appended table 1(row 1～15)
+and appended table 2 of Export Trade Control Order and Foreign Exchange Order.
+But it is an object of controlled goods in Annex 1 (row 16) of Export Trade Control Order.
+In case of export, please confirm if it applies to "objective" criteria
+or an "informed" (by METI clause) on the basis of "catch-all" controls for
+Non-Proliferatioh of Weapons of Mass Destruction.
+This product is in comformance with the most recent version
+of the Japanese Export Control Order which took effect on 1 / Oct / 2015.
+SiC module products that Rohm Co.,Ltd．sells is not an U.S. product.
+Also, it is out of an object to Export Administration Regulations (EAR),
+because it is not using even the U.S. part.
+SiC module products that Rohm Co.,Ltd．sells is not an U.S. product.
+Also, it is out of an object to Export Administration Regulations (EAR),
+because it is not using even the U.S. part.
+SiC module products that Rohm Co.,Ltd．sells is not an U.S. product.
+Also, it is out of an object to Export Administration Regulations (EAR),
+because it is not using even the U.S. part.
+1200V CoolSiC™ Modules
+Infineon Technologies 1200V CoolSiC™ Modules are Silicon Carbide (SiC) MOSFET modules that offer good levels of efficiency and system flexibility. These modules come with Near Threshold Circuits (NTC) and PressFIT contact technology. The CoolSiC modules feature high current density, best in class switching and conduction losses, and low inductive design. These modules provide high-frequency operation, increased power density, and optimized development cycle time and cost.
+PotentialApplications
+• AnwendungenmithohenSchaltfrequenzen • HighFrequencySwitchingapplication
+• DC/DCWandler • DC/DCconverter
+• Schweißen • Welding
+ElektrischeEigenschaften ElectricalFeatures
+• HoheStromdichte • Highcurrentdensity
+• NiederinduktivesDesign • Lowinductivedesign
+• NiedrigeSchaltverluste • Lowswitchinglosses
+MechanischeEigenschaften MechanicalFeatures
+• IntegrierterNTCTemperaturSensor • IntegratedNTCtemperaturesensor
+• PressFITVerbindungstechnik • PressFITcontacttechnology
+• Robuste Montage durch integrierte •
+Befestigungsklammern
+Rugged mounting due to integrated mounting
+clamps
+5 ns pin-to-pin logic delays
+• System frequency up to 178 MHz
+• 72 macrocells with 1,600 usable gates
+• Available in small footprint packages
+- 44-pin PLCC (34 user I/O pins)
+- 44-pin VQFP (34 user I/O pins)
+- 48-pin CSP (38 user I/O pins)
+- 64-pin VQFP (52 user I/O pins)
+- 100-pin TQFP (72 user I/O pins)
+- Pb-free available for all packages
+• Optimized for high-performance 3.3V systems
+- Low power operation
+- 5V tolerant I/O pins accept 5V, 3.3V, and 2.5V
+signals
+- 3.3V or 2.5V output capability
+- Advanced 0.35 micron feature size CMOS
+Fast FLASH™ technology
+• Advanced system features
+- In-system programmable
+- Superior pin-locking and routability with
+Fast CONNECT™ II switch matrix
+- Extra wide 54-input Function Blocks
+- Up to 90 product-terms per macrocell with
+individual product-term allocation
+- Local clock inversion with three global and one
+product-term clocks
+- Individual output enable per output pin
+- Input hysteresis on all user and boundary-scan pin
+inputs
+- Bus-hold circuitry on all user pin inputs
+- Full IEEE Standard 1149.1 boundary-scan (JTAG)
+• Fast concurrent programming
+• Slew rate control on individual outputs
+• Enhanced data security features
+• Excellent quality and reliability
+- Endurance exceeding 10,000 program/erase
+cycles
+- 20 year data retention
+- ESD protection exceeding 2,000V
+• Pin-compatible with 5V-core XC9572 device in the
+44-pin PLCC package and the 100-pin TQFP package
+WARNING: Programming temperature range of
+TA = 0° C to +70° C
+Description
+The XC9572XL is a 3.3V CPLD targeted for high-performance, low-voltage applications in leading-edge communications and computing systems. It is comprised of four
+54V18 Function Blocks, providing 1,600 usable gates with
+propagation delays of 5 ns. See Figure 2 for overview.
+Power Estimation
+Power dissipation in CPLDs can vary substantially depending on the system frequency, design application and output
+loading. To help reduce power dissipation, each macrocell
+in a XC9500XL device may be configured for low-power
+mode (from the default high-performance mode). In addition, unused product-terms and macrocells are automatically deactivated by the software to further conserve power.
+For a general estimate of ICC, the following equation may be
+used:
+ICC(mA) = MCHS(0.175*PTHS + 0.345) + MCLP(0.052*PTLP
++ 0.272) + 0.04 * MCTOG(MCHS +MCLP)* f
+where:
+MCHS = # macrocells in high-speed configuration
+PTHS = average number of high-speed product terms
+per macrocell
+MCLP = # macrocells in low power configuration
+PTLP = average number of low power product terms per
+macrocell
+f = maximum clock frequency
+MCTOG = average % of flip-flops toggling per clock
+(~12%)
+This calculation was derived from laboratory measurements
+of an XC9500XL part filled with 16-bit counters and allowing
+a single output (the LSB) to be enabled. The actual ICC
+value varies with the design application and should be verified during normal system operation. Figure 1 shows the
+above estimation in a graphical form. For a more detailed
+discussion of power consumption in this device, see Xilinx
+Features
+• 6 ns pin-to-pin logic delays
+• System frequency up to 208 MHz
+• 288 macrocells with 6,400 usable gates
+• Available in small footprint packages
+- 144-pin TQFP (117 user I/O pins)
+- 208-pin PQFP (168 user I/O pins)
+- 256-pin BGA (192 user I/O pins)
+- 256-pin FBGA (192 user I/O pins)
+- 280-pin CSP (192 user I/O pins)
+- Pb-free available for all packages
+• Optimized for high-performance 3.3V systems
+- Low power operation
+- 5V tolerant I/O pins accept 5V, 3.3V, and 2.5V
+signals
+- 3.3V or 2.5V output capability
+- Advanced 0.35 micron feature size CMOS
+Fast FLASH™ technology
+• Advanced system features
+- In-system programmable
+- Superior pin-locking and routability with
+Fast CONNECT™ II switch matrix
+- Extra wide 54-input Function Blocks
+- Up to 90 product-terms per macrocell with
+individual product-term allocation
+- Local clock inversion with three global and one
+product-term clocks
+- Individual output enable per output pin with local
+inversion
+- Input hysteresis on all user and boundary-scan pin
+inputs
+- Bus-hold circuitry on all user pin inputs
+- Full IEEE Standard 1149.1 boundary-scan (JTAG)
+• Fast concurrent programming
+• Slew rate control on individual outputs
+• Enhanced data security features
+• Excellent quality and reliability
+- Endurance exceeding 10,000 program/erase
+cycles
+- 20 year data retention
+- ESD protection exceeding 2,000V
+• Pin-compatible with 5V-core XC95288 device in the
+208-pin HQFP package
+WARNING: Programming temperature range of
+TA = 0° C to +70° C
+Description
+The XC95288XL is a 3.3V CPLD targeted for high-performance, low-voltage applications in leading-edge communications and computing systems. It is comprised of 16
+54V18 Function Blocks, providing 6,400 usable gates with
+propagation delays of 6 ns. See Figure 2 for architecture
+overview.
+Power Estimation
+Power dissipation in CPLDs can vary substantially depending on the system frequency, design application and output
+loading. To help reduce power dissipation, each macrocell
+in a XC9500XL device may be configured for low-power
+mode (from the default high-performance mode). In addition, unused product-terms and macrocells are automatically deactivated by the software to further conserve power.
+For a general estimate of ICC, the following equation may be
+used:
+ICC(mA) = MCHS(0.175*PTHS + 0.345) + MCLP(0.052*PTLP
++ 0.272) + 0.04 * MCTOG(MCHS +MCLP)* f
+where:
+MCHS = # macrocells in high-speed configuration
+PTHS = average number of high-speed product terms
+per macrocell
+MCLP = # macrocells in low power configuration
+PTLP = average number of low power product terms per
+macrocell
+f = maximum clock frequency
+MCTOG = average % of flip-flops toggling per clock
+(~12%)
+This calculation was derived from laboratory measurements
+of an XC9500XL part filled with 16-bit counters and allowing
+a single output (the LSB) to be enabled. The actual ICC
+value varies with the design application and should be verified during normal system operation. Figure 1 shows the
+above estimation in a graphical form. For a more detailed
+discussion of power consumption in this device, see Xilinx
+4th Generation Xeon® Processors
+Intel 4th Generation Xeon® Processors are manufactured on the industry-leading 22nm process technology with 3D Tri-Gate transistors, deliver quad-core processing and intelligent performance capabilities, including Intel Turbo Boost Technology 2.0, and Hyper-Threading Technology. Additionally, it boosts performance to integer/matrix calculations through Intel Advanced Vector Extensions 2.0 enhancements.
+
+
+Xeon® Second Generation Scalable Gold Processors
+Intel® Xeon® Second Generation Scalable Gold Processors are 64-bit, multicore server microprocessors built on 14nm lithography process technology. The processors are based on the Cascade Lake microarchitecture that allows for higher clock speeds. The processors are also optimized for demanding mainstream data center, multi-cloud compute, and network and storage workloads. These processors offer up to 22 cores/44 threads and feature Intel Turbo Boost Technology 2.0 that ramps up to 4.4GHz. The processors also feature up to four-socket scalability and support up to 46 bits of physical address space and 48 bits of virtual address space. The devices take embedded AI performance to the next level with new AI acceleration, including new Intel® Deep Learning Boost.
+
+
+4th Generation Processors
+Intel's 4th generation Core Processor family delivers Desktop, Mobile, and Embedded products with maximum performance per watt. Intel Haswell Architecture is based on a 22nm process and utilizes FinFET technology for reduced leakage and lowered power consumption. Idle state power consumption has been lowered, creating a 20x improvement from the previous generation, with a 3 second wakeup time possible using Intel Rapid Start.
+Xeon® Second Generation Scalable Bronze Processors
+Intel® Xeon® Second Generation Scalable Bronze Processors are 64-bit x86 dual-socket multicore entry-level server microprocessors built on 14nm lithography process technology. Bronze processor-based systems target entry-level dual-socket server and workstation microprocessors used in small business and basic storage servers. The processors support six cores with 1TB memory per socket. The processors are also based on the Cascade Lake microarchitecture that allows for higher clock speeds.
+Xeon® Second Generation Scalable Bronze Processors
+Intel® Xeon® Second Generation Scalable Bronze Processors are 64-bit x86 dual-socket multicore entry-level server microprocessors built on 14nm lithography process technology. Bronze processor-based systems target entry-level dual-socket server and workstation microprocessors used in small business and basic storage servers. The processors support six cores with 1TB memory per socket. The processors are also based on the Cascade Lake microarchitecture that allows for higher clock speeds.
+RF, Microwave & Millimeter Wave ADI SLP
+
+
+ADMV8416 Monolithic Microwave Integrated Circuit
+Analog Devices Inc. ADMV8416 Monolithic Microwave Integrated Circuit (MMIC) is a tunable band-pass filter that features a user selectable pass-band frequency. The 3dB filter bandwidth is approximately 15% of the center frequency (fCENTER), and the 20dB filter bandwidth is 37%. Additionally, fCENTER can be varied between 7GHz to 16GHz by applying an analog fCENTER tuning voltage between 0V to 15V. This tunable filter is used as a much smaller alternative to large switched filter banks and cavity tuned filters. The filter has excellent microphonics due to the monolithic design and provides a dynamically adjustable solution.
+GENERAL DESCRIPTION
+The ADMV8416 is a monolithic microwave integrated circuit
+(MMIC), tunable band-pass filter that features a user selectable
+pass-band frequency. The 3 dB filter bandwidth is approximately
+15% of the center frequency (fCENTER), and the 20 dB filter
+bandwidth is 37%. Additionally, fCENTER can be varied between
+7 GHz to 16 GHz by applying an analog fCENTER tuning voltage
+between 0 V to 15 V. This tunable filter can be used as a much
+smaller alternative to large switched filter banks and cavity
+tuned filters. The filter has excellent microphonics due to the
+monolithic design and provides a dynamically adjustable solution.
+FEATURES
+Amplitude settling: 200 ns typical
+Wideband rejection: ≥20 dB
+Single chip implementation
+40-lead, 6 mm × 6 mm, RoHS compliant LFCSP
+APPLICATIONS
+Test and measurement equipment
+Military radar and electronic warfare (EW)
+systems
+Video satellite (VSAT) communications
+ADMV8420 Tunable Band-Pass Filters
+Analog Devices Inc. ADMV8420 Tunable Band-Pass Filters are monolithic microwave integrated circuits (MMIC) that feature a user-selectable passband frequency. The ADMV8420 features a 3dB filter bandwidth of approximately 20% and a 20dB filter bandwidth of approximately 40%. The center frequency (fCENTER) varies between 11GHz to 20GHz by applying a center frequency control voltage between 0V to 15V. This tunable filter is a smaller alternative to switched filter banks and cavity tuned filters.
+
+
+RF, Microwave & Millimeter Wave ADI SLP
+FEATURES
+Amplitude settling time: 200 ns
+Wideband rejection: ≥20 dB
+Single-chip implementation
+24-lead, 4 mm × 4 mm, RoHS-compliant LFCSP
+APPLICATIONS
+Test and measurement equipment
+Military radar and electronic warfare systems
+Very small aperture terminal (VSAT) communications
+FUNCTIONAL BLOCK DIAGRAM
+2
+1
+3
+4
+5
+6
+18
+17
+16
+15
+14
+NIC 13
+NIC
+GND
+RFIN
+GND
+NIC
+NIC
+NIC
+GND
+RFOUT
+GND
+NIC
+8
+9
+10
+1
+7
+1
+N CI
+VFCTL
+N CI
+N CI
+12 N CI
+N CI
+20
+19
+21
+N CI
+N CI
+N CI
+22 N CI
+23 N CI
+24 N CI
+ADMV8420
+17199-001
+NIC = NOT INTERNALLY CONNECTED.
+PACKAGE BASE
+GND
+Figure 1.
+GENERAL DESCRIPTION
+The ADMV8420 is a monolithic microwave integrated circuit
+(MMIC), tunable band-pass filter that features a user-selectable
+pass band frequency. The 3 dB filter bandwidth is approximately
+20%, and the 20 dB filter bandwidth is approximately 40%.
+Additionally, the center frequency (fCENTER) varies between
+11 GHz to 20 GHz by applying a center frequency control
+voltage between 0 V to 15 V. This tunable filter is a smaller
+alternative to switched filter banks and cavity tuned filters. The
+ADMV8420 has minimal microphonics due to the monolithic
+design and provides a dynamically adjustable solution in
+advanced communications applications.
+Amplifier Solutions
+Texas Instruments Amplifier Solutions deliver a broad portfolio of devices including operational amplifiers, comparators, instrumental amplifiers, difference amplifiers, current sense amplifiers, programmable & variable gain amplifiers, and special function amplifiers. These products feature low offset, low noise, low power, wide bandwidth, small footprint, and cost optimized products. TI has an amplifier for nearly any need – from high voltage to cost optimized and everything in between. TI continues to push the limits of what’s possible by packing more functionality and performance into smaller packages that use less power and reduce costs. Amplify your system with a TI amplifier today.
+Learn More
+
+
+OPA828 JFET-Input Operational Amplifier
+Texas Instruments OPA828 JFET-Input Operational Amplifier is the next generation OPA627 and OPA827 operational amplifier (op amp), combining high speed with high DC precision and AC performance. This op amp supplies low-offset voltage, low-drift over temperature, low bias current, and low noise with only 60nVRMS 0.1 to 10Hz noise. The OPA828 operates over a wide supply-voltage range, ±4V to ±18V on a supply current of 5.5mA/channel (typical).
+3 Description
+The OPA828 JFET is the next generation OPA627
+and OPA827 operational amplifier (op amp),
+combining high speed with high DC precision and AC
+performance. This op amp supplies low-offset voltage
+(50 μV), low-drift over temperature (0.45 μV/°C
+typical), low bias current (1 pA typical), and low noise
+(4 nV/√Hz typical) with only 60-nVRMS 0.1- to 10-Hz
+noise. The OPA828 operates over a wide supplyvoltage range, ±4 V to ±18 V on a supply current (5.5
+mA/channel typical).
+AC characteristics, including a 45-MHz gain
+bandwidth product (GBW), a slew rate of 150 V/μs,
+and precision dc characteristics, make the OPA828
+an excellent choice for a variety of systems. These
+include high-speed and high-resolution dataacquisition systems, such as 16-bit to 18-bit mixed
+signal systems, transimpedance (I/V-conversion)
+amplifiers, filters, precision ±10-V front ends, and
+high-impedance sensor-interface applications.
+The OPA828 is available in the industry-standard 8-
+pin SOIC surface-mount package and is specified
+from –40°C to +125°C.
+ Features
+1• Low Input Voltage Noise Density:
+4 nV/√Hz at 1 kHz
+• Input Voltage Noise:
+0.1 Hz to 10 Hz: 60 nVRMS
+• Low Input Bias Current: 1 pA
+• Input Offset Voltage: 50 μV
+• Input Offset Drift: 0.45 μV/°C
+• MUX-Friendly Inputs
+• Gain Bandwidth: 45 MHz
+• Slew Rate: 150 V/μs
+• 14-bit Settling Time: 120 ns
+• Overload Power Limiter
+• Wide Supply Voltage Range: ±4 V to ±18 V
+• Package: 8-pin SOIC
+2 Applications
+• Data Acquisition (DAQ)
+• Optical Module
+• Seismic Test Equipment
+• Mixed Module
+• Ultrasound Scanners
+Amplifier Solutions
+Texas Instruments Amplifier Solutions deliver a broad portfolio of devices including operational amplifiers, comparators, instrumental amplifiers, difference amplifiers, current sense amplifiers, programmable & variable gain amplifiers, and special function amplifiers. These products feature low offset, low noise, low power, wide bandwidth, small footprint, and cost optimized products. TI has an amplifier for nearly any need – from high voltage to cost optimized and everything in between. TI continues to push the limits of what’s possible by packing more functionality and performance into smaller packages that use less power and reduce costs. Amplify your system with a TI amplifier today.
+Learn More
+
+
+TLV910x General Purpose Operational Amplifiers
+Texas Instruments TLV910x General Purpose Operational Amplifiers offer excellent DC precision and AC performance, including rail-to-rail input/output, low offset (±300µV, typ), low offset drift (±0.5µV/°C, typ), and 1.1MHz bandwidth. The TLV910x is a robust, low-power, high-performance operational amplifier for industrial applications.
+Features
+1• Rail-to-rail input and output
+• Wide bandwidth: 1.1-MHz GBW
+• Low quiescent current: 120 µA per amplifier
+• Low offset voltage: ±300 µV
+• Low offset voltage drift: ±0.6 µV/°C
+• Low noise: 28 nV/√Hz at 10 kHz
+• High common-mode rejection: 110 dB
+• Low bias current: ±10 pA
+• High slew rate: 4.5 V/µs
+• Wide supply: ±1.35 V to ±8 V, 2.7 V to 16 V
+• Robust EMIRR performance: 77 dB at 1.8 GHz
+2 Applications
+• Central and string solar inverter
+• Washer, dryer, and refrigerator
+• Macro remote radio unit (RRU)
+• Servo drive control module
+• Resolver and motor encoders
+• High-side and low-side current sensing
+3 Description
+The TLV910x family (TLV9101, TLV9102, and
+TLV9104) is a family of 16-V general purpose
+operational amplifiers.
+These devices offer excellent DC precision and AC
+performance, including rail-to-rail input/output, low
+offset (±300 µV, typ), low offset drift (±0.5 µV/°C, typ),
+and 1.1-MHz bandwidth.
+Wide differential and common-mode input-voltage
+range, high output current (±80 mA), high slew rate
+(4.5 V/µs), low power operation (120 µA, typ) and
+shutdown functionality make the TLV910x a robust,
+low-power, high-performance operational amplifier for
+industrial applications.
+The TLV910x family of op amps is available in microsize packages, as well as standard packages, and is
+specified from –40°C to 125°C.
+DDR4 SDRAM
+Micron DDR4 SDRAM has new features centered on power savings, performance enhancement, manufacturability, and reliability improvements. These features improve performance, power, manufacturability, reliability and stacking capabilities for the enterprise, cloud, ultrathin, tablet, automotive and embedded markets. DDR4 has data rates up to 3200MT/s, an operating voltage of 1.2V and additional power saving features. Increases performance up to 50% and deliver total energy savings up to 25% compared to DDR3.
+
+
+DRAM
+Micron DRAM can be used to accelerate application time-to-market with quality DRAM components that are rigorously tested. The DRAM are ideal for a wide range of applications. This includes extreme temperature and performance needs for industrial and automotive applications. Micron has the right design solution to exacting specs of enterprising systems.
+DDR4 SDRAM
+Micron DDR4 SDRAM has new features centered on power savings, performance enhancement, manufacturability, and reliability improvements. These features improve performance, power, manufacturability, reliability and stacking capabilities for the enterprise, cloud, ultrathin, tablet, automotive and embedded markets. DDR4 has data rates up to 3200MT/s, an operating voltage of 1.2V and additional power saving features. Increases performance up to 50% and deliver total energy savings up to 25% compared to DDR3.
+
+
+DRAM
+Micron DRAM can be used to accelerate application time-to-market with quality DRAM components that are rigorously tested. The DRAM are ideal for a wide range of applications. This includes extreme temperature and performance needs for industrial and automotive applications. Micron has the right design solution to exacting specs of enterprising systems.
+Features
+ Low Voltage and Standard Voltage Operation Available
+̶ 1.7V (VCC = 1.7V to 5.5V)
+̶ 2.5V (VCC = 2.5V to 5.5V)
+ Internally Organized 262,144 x 8 (2-Mbit, 256-Kbyte)
+ I
+2
+C-Compatible (2-wire) Serial Interface
+̶ 100kHz Standard Mode, 1.7V to 5.5V
+̶ 400kHz Fast Mode, 1.7 to 5.5V
+̶ 1MHz Fast Mode Plus (FM+) 2.5V to 5.5V
+ Schmitt Trigger, Filtered Inputs for Noise Suppression
+ Bidirectional Data Transfer Protocol
+ Write Protect Pin for Full Array Hardware Data Protection
+ 256-byte Page Write Mode
+̶ Byte Write and Partial Page Writes Allowed
+ Self-timed Write Cycle
+̶ All Write operations complete within 10ms max
+ Random and Sequential Read Modes
+ Built in Error Detection and Correction
+ High Reliability
+̶ Endurance: 1,000,000 write cycles
+̶ Data retention: 100 years
+ Green Package Options (Lead-free/Halide-free/RoHS Compliant)
+̶ 8-lead JEDEC SOIC and Thin or Standard Thickness 8-ball WLCSP
+ Die Sale Options: Wafer Form and Tape and Reel Available
+Description
+The Atmel® AT24CM02 provides 2,097,152 bits of Serial Electrically Erasable and
+Programmable Read-Only Memory (EEPROM) organized as 262,144 words of
+8 bits each. The device’s cascadable feature allows up to two devices to share a
+common 2-wire bus. The device is optimized for use in many industrial and
+commercial applications where low power and low voltage operation are
+essential. The device is available in space-saving 8-lead JEDEC SOIC and 8-ball
+WLCSP packages. In addition, the entire family is available in 1.7V (1.7V to 5.5V)
+and 2.5V (2.5V to 5.5V) versions.
+Features
+ Low Voltage and Standard Voltage Operation Available
+̶ 1.7V (VCC = 1.7V to 5.5V)
+̶ 2.5V (VCC = 2.5V to 5.5V)
+ Internally Organized 262,144 x 8 (2-Mbit, 256-Kbyte)
+ I
+2
+C-Compatible (2-wire) Serial Interface
+̶ 100kHz Standard Mode, 1.7V to 5.5V
+̶ 400kHz Fast Mode, 1.7 to 5.5V
+̶ 1MHz Fast Mode Plus (FM+) 2.5V to 5.5V
+ Schmitt Trigger, Filtered Inputs for Noise Suppression
+ Bidirectional Data Transfer Protocol
+ Write Protect Pin for Full Array Hardware Data Protection
+ 256-byte Page Write Mode
+̶ Byte Write and Partial Page Writes Allowed
+ Self-timed Write Cycle
+̶ All Write operations complete within 10ms max
+ Random and Sequential Read Modes
+ Built in Error Detection and Correction
+ High Reliability
+̶ Endurance: 1,000,000 write cycles
+̶ Data retention: 100 years
+ Green Package Options (Lead-free/Halide-free/RoHS Compliant)
+̶ 8-lead JEDEC SOIC and Thin or Standard Thickness 8-ball WLCSP
+ Die Sale Options: Wafer Form and Tape and Reel Available
+Description
+The Atmel® AT24CM02 provides 2,097,152 bits of Serial Electrically Erasable and
+Programmable Read-Only Memory (EEPROM) organized as 262,144 words of
+8 bits each. The device’s cascadable feature allows up to two devices to share a
+common 2-wire bus. The device is optimized for use in many industrial and
+commercial applications where low power and low voltage operation are
+essential. The device is available in space-saving 8-lead JEDEC SOIC and 8-ball
+WLCSP packages. In addition, the entire family is available in 1.7V (1.7V to 5.5V)
+and 2.5V (2.5V to 5.5V) versions.
+MADP-011104 Shunt PIN Diodes
+MACOM MADP-011104 Shunt Positive Intrinsic Negative (PIN) Diodes are high-power shunt diodes that provide a good switch or attenuator performance from 50MHz to 5GHz. The MADP-011104 diodes feature 350W Continuous Wave (CW) incident power handling, 0.15dB insertion loss, and 29dB isolation at 3GHz frequency. These PIN diodes are available in a 3mm, 12-lead, and lead-free Quad Flat No-leads (QFN) plastic package. The MADP-011104 diodes are suited for switch and attenuator applications from HF through S-band. These applications require high peak and CW power, lower loss, and high linearity surface-mount assemblies. The MADP-011104 diodes are sensitive to ESD and require proper ESD control techniques.
+Features
+ 350 W CW Incident Power Handling @ 3 GHz
+ 0.15 dB Insertion Loss @ 3 GHz
+ 29 dB Isolation @ 3 GHz
+ Lead-Free 3 mm 12-lead QFN Package
+ Halogen-Free “Green” Mold Compound
+ RoHS* Compliant
+Description
+The MADP-011104 is a high-power PIN diode
+assembled in a lead-free 3 mm 12-lead QFN plastic
+package. This shunt device provides exceptional
+switch or attenuator performance from 50 MHz to 5
+GHz.
+This compact device is ideally suited to switch and
+attenuator applications from HF through S band,
+where higher peak and CW power, lower loss, and
+higher linearity surface-mount diode assemblies are
+required.
+Features
+ Low Insertion Loss and Noise Figure
+ High Peak and Average Operating Power
+ Various P1dB Compression Powers
+ Au Doped Devices for Lower Recovery Time
+ Non-Au doped devices for Lower Flat Leakage
+Power
+ Proven Reliable, Silicon Nitride Passivation
+ RoHS Compliant
+Description
+The MA4L and MADL Series are silicon PIN limiter
+diodes with small and medium I-region lengths
+which are specifically designed for high signal
+applications. The devices are designed to provide
+low insertion loss, at zero bias, as well as low flat
+leakage power with fast signal response/recovery
+times. Parts are available as discrete die or
+assembled into a variety of surface mount or
+ceramic pill packages. See the Available Case Style
+table for the specific ceramic package styles and
+their availability for individual part numbers.
+Applications
+The MA4L and MADL Series of PIN limiter diodes
+are designed for use in passive limiter control
+circuits to protect sensitive receiver components
+such as low noise amplifiers (LNA), detectors, and
+mixers covering the 10 MHz to 18 GHz frequency
+range
+GTVA High Power RF GaN on SiC HEMT
+Wolfspeed / Cree GTVA High Power RF GaN on SiC HEMT are 50V High Electron Mobility Transistors (HEMT) based on Gallium-Nitride on Silicon Carbide technology. GaN on SiC devices offer high power density coupled with a high breakdown voltage, enabling highly efficient power amplifiers. The GTVA High Power RF GaN on SiC HEMT feature input matching, high efficiency, and thermally-enhanced packages. These Pulsed/CW (Continuous Wave) devices have a pulse width of 128µs and a duty cycle of 10%.
+The GTVA107001EC and GTVA107001FC are 700-watt GaN on SiC
+high electron mobility transistors (HEMT) for use in the 960 to 1215
+MHz frequecy band. They feature input matching, high effi ciency, and
+thermally-enhanced packages.
+GaN on SiC HEMT technology
+• Input matched
+• Typical pulsed CW performance (class AB), 1030
+MHz, 50 V, 128 µs pulse width, 10% duty cycle
+ - Output power P3dB = 890 W
+ - Drain effi ciency = 75%
+ - Gain = 18 dB
+• Capable of withstanding a 10:1 load mismatch (all
+phase angles at 700 W peak power under pulse
+conditions: 50 V, 100 mA IDQ,128 µs pulse width,
+10% duty cycle
+• Human Body Model Class IC (per ANSI/ESDA/
+JEDEC JS-001)
+• Pb-free and RoHS-compliant
+GTVA High Power RF GaN on SiC HEMT
+Wolfspeed / Cree GTVA High Power RF GaN on SiC HEMT are 50V High Electron Mobility Transistors (HEMT) based on Gallium-Nitride on Silicon Carbide technology. GaN on SiC devices offer high power density coupled with a high breakdown voltage, enabling highly efficient power amplifiers. The GTVA High Power RF GaN on SiC HEMT feature input matching, high efficiency, and thermally-enhanced packages. These Pulsed/CW (Continuous Wave) devices have a pulse width of 128µs and a duty cycle of 10%.
+The GTVA104001FA is a 400-watt GaN on SiC high electron mobility
+transistor (HEMT) for use in the 960 to 1215 MHz frequecy band. It features
+input matching, high efficiency, and a thermally-enhanced surface-mount
+package with earless flange.
+ GaN on SiC HEMT technology
+• Input matched
+• Typical pulsed CW performance: pulse width = 128 μs,
+duty cycle = 10%, 960 - 1215 MHz, VDS = 50 V, IDQ = 100
+mA
+- Output power = 400 W
+- Drain Efficiency = 70 %
+- Gain = 19 dB
+• Human Body Model Class 2 (per ANSI/ESDA/JEDEC
+JS-001)
+• Capable of handling 10:1 VSWR (all phase angles) at
+VDS = 50 V, IDQ = 100 mA, ƒ = 1090 MHz, POUT = 400 W
+peak
+• Pb-free and RoHS compliant

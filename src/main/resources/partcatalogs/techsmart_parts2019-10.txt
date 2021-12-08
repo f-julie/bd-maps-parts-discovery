@@ -1,0 +1,693 @@
+
+SP SiSonic™ MEMS Silicon Microphones
+Knowles SP Series SiSonic™ MEMS Silicon Microphones are high-performance, low power, top port silicon, digital miniature microphones. These digital microphones use SiSonic MEMS technology and consist of an acoustic sensor, a low noise input buffer, and either a sigma-delta modulator or output amplifier. Design variables include ever-smaller sizes, lower profiles and mounting options, increased output capacities, and new digital audio options that eliminate analog noise. Suitable applications include cellphones, smart phones, laptop computers, sensors, digital still cameras, portable music recorders, and other portable electronic devices where wideband audio performance and RF immunity are needed.
+General Description
+The MAX32664 is part of a sensor hub family with embedded firmware and algorithms for wearables. It seamlessly
+enables customer-desired sensor functionality, which
+includes communicating with Maxim’s optical sensor solutions and delivering raw or calculated data to the outside
+world. This is achieved while keeping overall system
+power consumption in check. The device family interfaces
+to a microcontroller host through a fast-mode slave I2C
+interface for field updates as well as access to raw and
+processed sensor data.
+The MAX32664 Version A supports the MAX30101/
+MAX30102 high-sensitivity pulse oximeter and heart-rate
+sensor for wearable health for finger-based applications.
+A master mode I2C interface for communication with sensors is provided.
+The MAX32664 Version B supports the MAX86140/
+MAX86141 for wrist-based applications. A master mode
+SPI interface for communication with sensors is provided.
+The MAX32664 Version C supports the MAX86140/
+MAX86141 for wrist-based applications. A master mode
+SPI interface for communication with sensors is provided.
+The MAX32664 Version D supports the MAX30101/
+MAX30102 high-sensitivity pulse oximeter and heart-rate
+sensor for wearable health for finger-based applications.
+A master mode I2C interface for communication with
+sensors is provided.
+The tiny form factor (1.6mm x 1.6mm WLP or 3mm x 3mm
+TQFN) allows for integration into extremely small application devices.
+Applications
+● Wearable Fitness
+● Hearables
+● Wearable Medical
+● Portable Medical
+● Mobile Devices
+Benefits and Features
+● Biometric Sensor Hub Enables Faster Time to Market
+● Finger-Based (Version A) Algorithms Measure:
+• Pulse Heart Rate
+• Pulse Blood Oxygen Saturation (SpO2)
+● Wrist-Based (Version B) Algorithm Measures:
+• Pulse Heart Rate
+● Wrist-Based (Version C) Algorithms Measure:
+• Pulse Heart Rate
+• Pulse Blood Oxygen Saturation (SpO2)
+● Finger-Based (Version D) Algorithms Measure:
+• Pulse Heart Rate
+• Pulse Blood Oxygen Saturation (SpO2)
+• Estimated Blood Pressure
+● Both Raw and Processed Data Are Available
+● Basic Peripheral Mix Optimizes Size and
+Performance
+• One Slave I2C for Communication with a Host
+Microcontroller
+• One Master I2C for Communication with Sensors
+(Version A)
+• One Master SPI for Communication with Sensors
+(Version B)
+• 32.768kHz RTC
+• FIFO Provides Minimal Host Interaction
+• Bootloader Facilitates Secure, Authenticated
+Firmware Upgrades
+MAX86150 Bio-Sensor Module
+Maxim Integrated MAX86150 Bio-Sensor Module delivers both Photoplethysmogram (PPG) and Electrocardiogram (ECG) measurements in a single integrated package. The MAX86150 Module combines internal LEDs, photodetectors, and an ECG Analog Front-End (AFE) to provide highly accurate, FDA-certifiable PPG and ECG performance in compact, power-saving designs, including smartphones, laptops, tablets, and wearables.
+General Description
+The MAX86150 is an integrated electrocardiogram, pulse
+oximeter, heart rate monitor sensor module. It includes
+internal LEDs, photodetector, and low-noise electronics
+with ambient light rejection. The MAX86150 helps ease
+design-in to mobile and wearable devices.
+The MAX86150 operates on a 1.8V supply voltage
+with a separate power supply for the internal LEDs.
+Communication to and from the module is entirely through
+a standard I2C-compatible interface. The module can be
+shut down through software with near zero standby current,
+allowing the power rails to remain powered at all times.
+Applications
+● Smartphones
+● Tablets
+● Wearable Devices
+● Fitness Assistant Devices
+Benefits and Features
+● Electrocardiogram (ECG) Optimized for Dry
+Electrode Operation
+● Reflective Heart Rate Monitor and Medical-Grade
+Pulse Oximeter
+● Miniature 3.3mm x 5.6mm x 1.3mm 22-pin Optical
+Module
+• Optical-Grade Glass for Long-Term Optimal and
+Robust Performance
+● Ultra-Low Power Operation for Mobile Devices
+• Ultra-Low Shutdown Current (0.7μA Typical)
+● High SNR and Robust Ambient Light Cancellation
+● -40°C to +85°C Operating Temperature Range
+MSP430FR267x CapTIvate Mixed Signal MCUs
+Texas Instruments MSP430FR267x CapTIvate Mixed Signal Microcontrollers (MCUs) are an ultra-low-power MSP430™ microcontroller for capacitive touch sensing for buttons, slides, wheel and proximity applications. MSP430 MCUs with CapTIvate technology provide the most integrated and autonomous capacitive-touch solution in the market with high reliability and noise immunity at the lowest power. TI’s capacitive touch technology supports concurrent self-capacitance and mutual-capacitance electrodes on the same design for maximum flexibility. MSP430 MCUs with CapTIvate technology operate through thick glass, plastic enclosures, metal, and wood with operation in harsh environments including wet, greasy, and dirty environments.
+1.1 Features 1
+• CapTIvate™ technology – capacitive touch
+– Performance
+– Fast electrode scanning with four
+simultaneous scans
+– Proximity sensing
+– Reliability
+– Increased immunity to power line, RF, and
+other environmental noise
+– Built-in spread spectrum, automatic tuning,
+noise filtering, and debouncing algorithms
+– Enable reliable touch solutions with 10-V
+RMS common-mode noise, 4-kV electrical
+fast transients, and 15-kV electrostatic
+discharge, allowing for IEC‑61000-4-6, IEC61000-4-4, and IEC‑61000-4-2 compliance
+– Reduced RF emissions to simplify electrical
+designs
+– Support for metal touch and water rejection
+designs
+– Flexibility
+– Up to 16 self-capacitance and 64 mutualcapacitance electrodes
+– Mix and match self- and mutual-capacitive
+electrodes in the same design
+– Support multi-touch functionality
+– Wide range of capacitance detection, wide
+electrode range of 0 to 300 pF
+– Low power
+– <5 µA wake-on-touch with four sensors
+– Wake-on-touch state machine allows
+electrode scanning while CPU sleeps
+– Hardware acceleration for environmental
+compensation, filtering, and threshold
+detection
+– Ease of use
+– CapTIvate Design Center PC GUI lets
+engineers design and tune capacitive buttons
+in real time without having to write code
+– CapTIvate software library in ROM provides
+ample FRAM for customer application
+• Embedded microcontroller
+– 16-bit RISC architecture
+– Clock supports frequencies up to 16 MHz
+– Wide supply voltage range from 3.6 V down to
+1.8 V (minimum supply voltage is restricted by
+SVS levels, see the SVS Specifications)
+• Optimized ultra-low-power modes
+– Active mode: 135 µA/MHz (Typical)
+– Standby: <5 µA wake-on-touch with four
+sensors
+– Shutdown (LPM4.5): 37 nA without SVS
+• Low-power ferroelectric RAM (FRAM)
+– Up to 64KB of nonvolatile memory
+– Built-in error correction code (ECC)
+– Configurable write protection
+– Unified memory of program, constants, and
+storage
+– 1015 write cycle endurance
+– Radiation resistant and nonmagnetic
+• Intelligent digital peripherals
+– Four 16-bit timers with three capture/compare
+registers each (Timer_A3)
+– One 16-bit timers with seven capture/compare
+registers each (Timer_B7)
+– One 16-bit timers associated with CapTIvate
+technology
+– One 16-bit counter-only RTC
+– 16-bit cyclic redundancy check (CRC)
+• Enhanced serial communications with support for
+pin remap feature
+– Two eUSCI_A supports UART, IrDA, and SPI
+– Two eUSCI_B supports SPI and I
+2C
+• High-performance analog
+– One 12-bit analog-to-digital converter (ADC)
+with up to 12 channels
+– Internal shared reference (1.5 V, 2.0 V, or
+2.5 V)
+– Sample-and-hold 200 ksps
+– One enhanced comparator (eCOMP)
+– Integrated 6-bit DAC as reference voltage
+– Programmable hysteresis
+– Configurable high-power and low-power
+modes
+• Clock system (CS)
+– On-chip 32-kHz RC oscillator (REFO) with 1 µA
+support
+– On-chip 16-MHz digitally controlled oscillator
+(DCO) with frequency-locked loop (FLL)
+– ±1% accuracy with on-chip reference at room
+temperature
+– On-chip very low-frequency 10-kHz oscillator
+(VLO)
+Major appliances
+• Intrusion HMI keypads and control panels
+• Electronic smart locks, door keypads, and readers
+• Garage door systems
+• Motorized window blinds
+• Remote controls
+• Personal electronics
+• Wireless speakers and headsets
+• Handheld video game controllers
+• A/V receivers
+• White goods
+• Garden and power tools
+1.3 Description
+The MSP430FR267x is an ultra-low-power MSP430™ microcontroller for capacitive touch sensing that
+feature CapTIvate touch technology for buttons, slides, wheel and proximity applications. MSP430 MCUs
+with CapTIvate technology provide the most integrated and autonomous capacitive-touch solution in the
+market with high reliability and noise immunity at the lowest power. TI's capacitive touch technology
+supports concurrent self-capacitance and mutual-capacitance electrodes on the same design for
+maximum flexibility. MSP430 MCUs with CapTIvate technology operate through thick glass, plastic
+enclosures, metal, and wood with operation in harsh environments including wet, greasy, and dirty
+environments.
+TI capacitive touch sensing MSP430 MCUs are supported by an extensive hardware and software
+ecosystem with reference designs and code examples to get your design started quickly. Development
+kits include the MSP-CAPT-FR2633 CapTIvate Technology Development Kit. TI also provides free
+software including the CapTIvate Design Center, where engineers can quickly develop applications with
+an easy-to-use GUI and MSP430Ware™ software, and comprehensive documentation with the CapTIvate
+Technology Guide.
+The TI MSP430 family of low-power microcontrollers consists of devices with different sets of peripherals
+targeted for various applications. The architecture, combined with extensive low-power modes, is
+optimized to achieve extended battery life in portable measurement applications. The MCU features a
+powerful 16-bit RISC CPU, 16-bit registers, and constant generators that contribute to maximum code
+efficiency. The digitally controlled oscillator (DCO) allows the MCU to wake up from low-power modes to
+active mode in less than 10 µs (typical).
+MSP430FR267x CapTIvate Mixed Signal MCUs
+Texas Instruments MSP430FR267x CapTIvate Mixed Signal Microcontrollers (MCUs) are an ultra-low-power MSP430™ microcontroller for capacitive touch sensing for buttons, slides, wheel and proximity applications. MSP430 MCUs with CapTIvate technology provide the most integrated and autonomous capacitive-touch solution in the market with high reliability and noise immunity at the lowest power. TI’s capacitive touch technology supports concurrent self-capacitance and mutual-capacitance electrodes on the same design for maximum flexibility. MSP430 MCUs with CapTIvate technology operate through thick glass, plastic enclosures, metal, and wood with operation in harsh environments including wet, greasy, and dirty environments.
+1.1 Features 1
+• CapTIvate™ technology – capacitive touch
+– Performance
+– Fast electrode scanning with four
+simultaneous scans
+– Proximity sensing
+– Reliability
+– Increased immunity to power line, RF, and
+other environmental noise
+– Built-in spread spectrum, automatic tuning,
+noise filtering, and debouncing algorithms
+– Enable reliable touch solutions with 10-V
+RMS common-mode noise, 4-kV electrical
+fast transients, and 15-kV electrostatic
+discharge, allowing for IEC‑61000-4-6, IEC61000-4-4, and IEC‑61000-4-2 compliance
+– Reduced RF emissions to simplify electrical
+designs
+– Support for metal touch and water rejection
+designs
+– Flexibility
+– Up to 16 self-capacitance and 64 mutualcapacitance electrodes
+– Mix and match self- and mutual-capacitive
+electrodes in the same design
+– Support multi-touch functionality
+– Wide range of capacitance detection, wide
+electrode range of 0 to 300 pF
+– Low power
+– <5 µA wake-on-touch with four sensors
+– Wake-on-touch state machine allows
+electrode scanning while CPU sleeps
+– Hardware acceleration for environmental
+compensation, filtering, and threshold
+detection
+– Ease of use
+– CapTIvate Design Center PC GUI lets
+engineers design and tune capacitive buttons
+in real time without having to write code
+– CapTIvate software library in ROM provides
+ample FRAM for customer application
+• Embedded microcontroller
+– 16-bit RISC architecture
+– Clock supports frequencies up to 16 MHz
+– Wide supply voltage range from 3.6 V down to
+1.8 V (minimum supply voltage is restricted by
+SVS levels, see the SVS Specifications)
+• Optimized ultra-low-power modes
+– Active mode: 135 µA/MHz (Typical)
+– Standby: <5 µA wake-on-touch with four
+sensors
+– Shutdown (LPM4.5): 37 nA without SVS
+• Low-power ferroelectric RAM (FRAM)
+– Up to 64KB of nonvolatile memory
+– Built-in error correction code (ECC)
+– Configurable write protection
+– Unified memory of program, constants, and
+storage
+– 1015 write cycle endurance
+– Radiation resistant and nonmagnetic
+• Intelligent digital peripherals
+– Four 16-bit timers with three capture/compare
+registers each (Timer_A3)
+– One 16-bit timers with seven capture/compare
+registers each (Timer_B7)
+– One 16-bit timers associated with CapTIvate
+technology
+– One 16-bit counter-only RTC
+– 16-bit cyclic redundancy check (CRC)
+• Enhanced serial communications with support for
+pin remap feature
+– Two eUSCI_A supports UART, IrDA, and SPI
+– Two eUSCI_B supports SPI and I
+2C
+• High-performance analog
+– One 12-bit analog-to-digital converter (ADC)
+with up to 12 channels
+– Internal shared reference (1.5 V, 2.0 V, or
+2.5 V)
+– Sample-and-hold 200 ksps
+– One enhanced comparator (eCOMP)
+– Integrated 6-bit DAC as reference voltage
+– Programmable hysteresis
+– Configurable high-power and low-power
+modes
+• Clock system (CS)
+– On-chip 32-kHz RC oscillator (REFO) with 1 µA
+support
+– On-chip 16-MHz digitally controlled oscillator
+(DCO) with frequency-locked loop (FLL)
+– ±1% accuracy with on-chip reference at room
+temperature
+– On-chip
+2 Applications
+• Major appliances
+• Intrusion HMI keypads and control panels
+• Electronic smart locks, door keypads, and readers
+• Garage door systems
+• Motorized window blinds
+• Remote controls
+• Personal electronics
+• Wireless speakers and headsets
+• Handheld video game controllers
+• A/V receivers
+• White goods
+• Garden and power tools
+1.3 Description
+The MSP430FR267x is an ultra-low-power MSP430™ microcontroller for capacitive touch sensing that
+feature CapTIvate touch technology for buttons, slides, wheel and proximity applications. MSP430 MCUs
+with CapTIvate technology provide the most integrated and autonomous capacitive-touch solution in the
+market with high reliability and noise immunity at the lowest power. TI's capacitive touch technology
+supports concurrent self-capacitance and mutual-capacitance electrodes on the same design for
+maximum flexibility. MSP430 MCUs with CapTIvate technology operate through thick glass, plastic
+enclosures, metal, and wood with operation in harsh environments including wet, greasy, and dirty
+environments.
+TI capacitive touch sensing MSP430 MCUs are supported by an extensive hardware and software
+ecosystem with reference designs and code examples to get your design started quickly. Development
+kits include the MSP-CAPT-FR2633 CapTIvate Technology Development Kit. TI also provides free
+software including the CapTIvate Design Center, where engineers can quickly develop applications with
+an easy-to-use GUI and MSP430Ware™ software, and comprehensive documentation with the CapTIvate
+Technology Guide.
+The TI MSP430 family of low-power microcontrollers consists of devices with different sets of peripherals
+targeted for various applications. The architecture, combined with extensive low-power modes, is
+optimized to achieve extended battery life in portable measurement applications. The MCU features a
+powerful 16-bit RISC CPU, 16-bit registers, and constant generators that contribute to maximum code
+efficiency. The digitally controlled oscillator (DCO) allows the MCU to wake up from low-power modes to
+active mode in less than 10 µs (typical).
+B82801 SMT Current Sense Transformers
+EPCOS/TDK B82801 SMT Current Sense Transformers offer very low DC resistance and different turns ratios within a very small, RoHS Compliant package. The components feature a frequency range of 50kHz to 1MHz and an operating temperature range of -20°C to +125°C. Applications include switching power supplies, feedback control, overload sensing, and load drop/shut down detection.
+MLX91217 Conventional Hall Current Sensors
+Melexis MLX91217 Conventional Hall Current Sensors are designed with Trim&Form options to facilitate sensor integration in the air gap of the ferromagnetic core. These Trim&Form options provide greater flexibility to tackle mechanical integration challenges that through-hole packages represent. These MLX91217 current sensors feature extended on-chip filtering options, higher accuracy, and an increased diagnostic capability with programmable output clamping and broken wire detection. The MLX91217 current sensors address the applications with higher ASILs and/or connectors with increased diagnostic coverage and introduction of clamping and broken wire detection. These current sensors consist of on-chip filtering that allows for an accurate trade-off between bandwidth/response time and higher resolution. Typical applications include industrial, robotics, non-automotive transportation, hybrid, and electric powertrain.
+Features and Benefits
+ End-of-line programmable sensor
+ Selectable analog ratiometric output
+ Measurement range from ±5 to ±450mT
+ Wideband sensing: DC to 250kHz
+ Very short response time (2µs)
+ High linearity down to ±0.2% full scale
+ Very low thermal drift
+ Offset drift (<5mV)
+ Sensitivity drift (<1%)
+ Programmable output clamping levels
+ Broken wire detection and diagnostics
+ AEC-Q100 – Grade 0
+Automotive Qualified
+ RoHS compliant
+ SIP4-VA package
+ MSL-1
+2. Application Examples
+ High Voltage Traction Motor Inverter
+ 48V Boost Recuperation Inverter
+ DCDC Converter
+ Smart Battery Junction Boxes
+ Smart Fuse Overcurrent Detection
+3. Description
+The MLX91217 is a monolithic Hall-effect sensor
+which is sensitive to the flux density applied
+orthogonally to the IC surface. The sensor
+provides an analog output voltage proportional to
+the applied magnetic flux density.
+The transfer characteristic of the MLX91217 is
+factory trimmed over temperature, and is
+programmable (offset, sensitivity, clamping,
+filtering) during end-of-line customer calibration.
+The output clamping levels and on-chip filtering
+are also programmable as a function of
+application needs. With the 250kHz bandwidth
+and fast response time, it is particularly adapted
+for high speed applications such as inverters and
+converters where fast response time due to fast
+switching is required.
+In a typical current sensing application, the sensor
+is used in combination with a ring shaped soft
+ferromagnetic core. This core is recommended to
+be laminated for high bandwidth applications. The
+MLX91217 is placed in a small air gap and the
+current conductor – a bus bar or a cable – is
+passed through the inner part of the
+ferromagnetic ring. On the one hand the ring
+concentrates and amplifies the magnetic flux seen
+by the sensor IC, and at the same time it
+attenuates external magnetic field disturbances.
+CD120 Draw Wire Encoders
+BEI Sensors / Sensata CD120 Draw Wire Encoders combine a rotary encoder with a rotating drum. The drum is coupled to the encoder shaft so that as the wire moves out and in, the encoder rotates to produce signal proportional movement. These encoders feature an IP65 rating, up to 10ft measurement capability, and ±5% FS linearity. The CD120 encoders offer resistance to dust and moisture, consisting of a cavity to drain moisture accumulation. These encoders are less expensive than machinist scales. The CD120 encoders are built so that 1 revolution equals 1 foot of travel. The mounting foot and encoder can be rotated in 90° increments to meet any mounting requirement. The CD120 encoders are ideal for use in harsh environments, lift truck mast position, automated sawing, transportation, HVOR construction, landscaping, demolition, and flood control gates.
+Introduction
+The HMT25 geared multi-turn encoder provides absolute position
+information over multiple turns of the input shaft. It keeps track of the
+exact position even during periods of power loss without the need for
+a battery backup. The HMT25 series is capable of outputs up to 4096
+counts per turn and can count up to 4096 turns—a total of 24 bits or
+16,777,216 positions. Units are enclosed in a 2.5- inch diameter sealed
+package to withstand rugged environments and they carry an IP 66
+environmental rating. These encoders meet the long travel and high
+resolution requirements of robotics, rolling mills, rotary tables, cable
+winding, printing, converting and material handling systems
+SM-UART-04L PM2.5 Particulate Laser Dust Sensor
+Amphenol Advanced Sensors SM-UART-04L Laser Dust Sensor offers a 5.5V rating, a 100mA current consumption, and a 3.3V output performance. This sensor detects dust particle and particulate concentrations in the air by using an optical sensing method. The SM-UART-04L sensor finds small particles such as cigarette smoke and can distinguish small particles, such as smoke from large house dust, by the pulse pattern of the signal output. Amphenol SM-UART-04L Laser Dust Sensor is ideal for air cleaners, purifiers, indoor air quality monitoring, and HVAC applications.
+SM-UART-04L PM2.5 Particulate Laser Dust Sensor
+Amphenol Advanced Sensors SM-UART-04L Laser Dust Sensor offers a 5.5V rating, a 100mA current consumption, and a 3.3V output performance. This sensor detects dust particle and particulate concentrations in the air by using an optical sensing method. The SM-UART-04L sensor finds small particles such as cigarette smoke and can distinguish small particles, such as smoke from large house dust, by the pulse pattern of the signal output. Amphenol SM-UART-04L Laser Dust Sensor is ideal for air cleaners, purifiers, indoor air quality monitoring, and HVAC applications.
+SPS30 Particulate Matter Sensor
+Sensirion SPS30 Particulate Matter (PM) Sensor represents a new technological breakthrough in optical PM sensors. The sensor's measurement principle is based on laser scattering and makes use of Sensirion's innovative contamination-resistance technology. This technology, together with high-quality and long-lasting components, enables accurate measurements from the device’s first operation and throughout its lifetime of more than eight years.
+Product Summary
+The SPS30 Particulate Matter (PM) sensor is a technological breakthrough in optical PM sensors. Its
+measurement principle is based on laser scattering and makes use of Sensirion’s innovative contaminationresistance technology. This technology, together with high-quality and long-lasting components, enables
+accurate measurements from its first operation and throughout its lifetime of more than eight years. In addition,
+Sensirion’s advanced algorithms provide superior accuracy for different PM types and higher-resolution particle
+size binning, opening up new possibilities for the detection of different sorts of environmental dust and other
+particles. With dimensions of only 41 x 41 x 12 mm3
+, it is also the perfect solution for applications where size is
+of paramount importance, such as wall-mounted or compact air quality devices.
+▪ Unique long-term stability
+▪ Advanced particle size binning
+▪ Superior accuracy in
+mass-concentration sensing
+▪ Small, ultra-slim package
+▪ Fully calibrated digital output
+SFM4100 Digital Mass Flow Meters
+Sensirion SFM4100 Digital Mass Flow Meters are designed to measure air and nonaggressive gases with high accuracy over a large dynamic range. These mass flow meters are capable of measuring mass flow ranges up to 20slm. The SFM4100 mass flow meters operate at a supply voltage range of 5VDC to 9VDC. These mass flow meters can be easily embedded into a microprocessor environment through the digital I2C  interface. The SFM4100 sensors are based on patented CMOSens® sensor technology that combines the sensor element, signal processing, and digital calibration on a single microchip. The mass flow is measured by a thermal method on the MEMS sensor element with extended dynamic range, higher long-term stability, and improved repeatability. These mass flow meters are ideal for demanding and cost-sensitive OEM applications.
+Accuracy 3% m.v.
+ Digital output (I2C)
+ Multigas option available
+ Calibrated and temperature compensated
+ Excellent long-term stability
+ Downmount or legris carstick fittings
+The SFM4100 gas flow meter series is designed as a
+versatile OEM gas flow meter for demanding volume
+applications.
+The SFM4100 is designed to measure Air and nonaggressive gases with excellent accuracy over a large
+dynamic range. Mass flows ranges up to 20 slm are
+available. The SFM4100 series operates with supply
+voltage 5-9 VDC and through its digital I2C interface it can
+be easily embedded into a microprocessor environment.
+The sturdy design of the SFM4100 sensor allows for
+operation pressures up to 10 barg. The flow signal is
+internally lineralized and temperature compensated.
+The outstanding performance of these sensors is based
+on Sensirion’s patented CMOSens® sensor technology,
+which combines the sensor element, signal processing
+and digital calibration on a single microchip. The mass
+flow is measured by a thermal method on the MEMS
+sensor element. Compared to other thermal mass flow
+sensors (MEMS, hotwire or capillary type) the SFM4100
+features an extended dynamic range, higher long-term
+stability, and improved repeatability.
+The well-proven CMOS technology is perfectly suited for
+high-quality mass production and is the ideal choice for
+demanding and cost-sensitive OEM applications.
+SFM4100 Digital Mass Flow Meters
+Sensirion SFM4100 Digital Mass Flow Meters are designed to measure air and nonaggressive gases with high accuracy over a large dynamic range. These mass flow meters are capable of measuring mass flow ranges up to 20slm. The SFM4100 mass flow meters operate at a supply voltage range of 5VDC to 9VDC. These mass flow meters can be easily embedded into a microprocessor environment through the digital I2C  interface. The SFM4100 sensors are based on patented CMOSens® sensor technology that combines the sensor element, signal processing, and digital calibration on a single microchip. The mass flow is measured by a thermal method on the MEMS sensor element with extended dynamic range, higher long-term stability, and improved repeatability. These mass flow meters are ideal for demanding and cost-sensitive OEM applications.
+ Accuracy 3% m.v.
+ Digital output (I2C)
+ Multigas option available
+ Calibrated and temperature compensated
+ Excellent long-term stability
+ Downmount or legris carstick fittings
+The SFM4100 gas flow meter series is designed as a
+versatile OEM gas flow meter for demanding volume
+applications.
+The SFM4100 is designed to measure Air and nonaggressive gases with excellent accuracy over a large
+dynamic range. Mass flows ranges up to 20 slm are
+available. The SFM4100 series operates with supply
+voltage 5-9 VDC and through its digital I2C interface it can
+be easily embedded into a microprocessor environment.
+The sturdy design of the SFM4100 sensor allows for
+operation pressures up to 10 barg. The flow signal is
+internally lineralized and temperature compensated.
+The outstanding performance of these sensors is based
+on Sensirion’s patented CMOSens® sensor technology,
+which combines the sensor element, signal processing
+and digital calibration on a single microchip. The mass
+flow is measured by a thermal method on the MEMS
+sensor element. Compared to other thermal mass flow
+sensors (MEMS, hotwire or capillary type) the SFM4100
+features an extended dynamic range, higher long-term
+stability, and improved repeatability.
+The well-proven CMOS technology is perfectly suited for
+high-quality mass production and is the ideal choice for
+demanding and cost-sensitive OEM applications.
+FX29 Compression Load Cells
+TE Connectivity's FX29 Compression Load Cells offer a 6V supply voltage rating, a 3mA operating current, and a 50MΩ insulation resistance. The FX29 compression cells feature a compact design, high over-range capability, and a stainless steel enclosure. These load cells have more precise dimensional control and better performance than previous load cell designs. The FX29 Compression Load Cells are ideal for medical infusion pumps, power tools, robotics, and manufacturing equipment.
+
+FX29 Compression Load Cells
+TE Connectivity's FX29 Compression Load Cells offer a 6V supply voltage rating, a 3mA operating current, and a 50MΩ insulation resistance. The FX29 compression cells feature a compact design, high over-range capability, and a stainless steel enclosure. These load cells have more precise dimensional control and better performance than previous load cell designs. The FX29 Compression Load Cells are ideal for medical infusion pumps, power tools, robotics, and manufacturing equipment.
+TE Connectivity’s (TE) FX29 is a compact compression load
+cell that offers exceptional price-to-performance in a robust
+sensor package. Optimized for embedded force sensing
+applications from disposable medical devices to durable
+appliances and exercise equipment. The FX29 allows
+design flexibility with mV, amplified, and digital output
+options.
+The FX29 incorporates the high reliability Microfused
+technology and is offered in ranges from 10lbf to 100lbf (50N
+to 500N). Microfused technology provides excellent span
+and zero stability, outstanding cycle life, superior resolution,
+high over-range capabilities, and an unamplified span
+sensitivity of 20mV/V.
+The FX29 utilizes a two-piece construction of stainless steel
+materials. The combination of a metal injection molded
+flexure and micro miniaturized MEMS strain gauges allows
+flexibility of force range options for a lower cost sensor.
+These improvements over previous load cell designs give
+the FX29 more precise dimensional control and better
+performance
+FEATURES
+ Compact Design
+ mV or Amplified Analog Outputs
+ Optional I2C Digital Interface
+ High Over Range Capability
+APPLICATIONS
+ Medical Infusion Pumps
+ Analog & Digital Scales
+ Fitness & Exercise Equipment
+ Payload Weighing
+ Power Tools
+ Robotics
+ Surgical & Dental Tools
+ Battery Powered Devices
+ Manufacturing Equipment
+FEATURES
+• Conductive plastic potentiometer technology,
+infinite resolution
+• Analog
+• Low height
+• Substrate: stratified, insulated, rigid, high temperature
+• Wiper: multicontacts, precious metals
+• Applicable standards: NFC 93255, MIL R39023
+• Material categorization: for definitions o
+Kit Potentiometer Linear Analog Displacement Sensor
+Industrial Potentiometer Membrane Sensors
+Vishay Industrial Potentiometer Membrane Displacement Sensors offer high durability and reliability in harsh environments. The rectilinear and rotational industrial potentiometer membrane displacement sensors are designed to deliver reliable performance for a wide range of applications. The sensors feature an IP66 seal and a very thin active layer with a thickness of 0.5 mm, while a double-sided adhesive layer allows for easy assembly. The rectilinear UIPMA and rotational UIPMC are ideal for electrical actuators and cylinder positioning systems applications.
+• Sealed
+• Infinite resolution
+• High integration capacity
+• Durability
+• Rectilinear: UIPMA type
+• Rotational: UIPMC type
+• Material categorization: f
+A lineup of new models compatible with Push-In Plus
+Terminal Block Sockets is available.
+• Series of plus common connection compatible
+products added.
+• UL listed when used with Push-In Plus Terminal Block
+Sockets. *1
+• Provides stable detection of liquids with impedance as
+high as 50 MΩ using inter-electrode resistance detection.
+Detection of IPA and pure water possible.
+• Higher noise immunity with a noise canceller circuit
+connected to a 3-conductor cable.
+• Prevents electrode corrosion with an AC detection method.
+• The power supply circuit and detection circuit are isolated, allowing several Amplifiers to be installed in the same place.
+• After a disconnection is detected, operating s
+Sensing Bands boast high degree of chemical resistance. The K7L can be used in a wide range of applications, from semiconductor
+production installations to food-processing equipment.
+Inter-electrode Resistance Detection
+Stable detection of liquids with impedances of up to 50 MΩ and common
+water. Four sensing ranges are available, ensuring detection suited to the
+application.
+AC Detection Method
+The K7L internally oscillates AC signals provided to the Sensing
+Band, protecting the Sensing Band from electric corrosion and
+ensuring safe operation.
+Noise Canceller Function (Patent Pending)
+The K7L incorporates a noise canceller circuit that uses a 3-conductor
+cable, ensuring a high level of noise immunity.
+Multi-channel Applications
+Isolation between the power supply circuits and sensing circuits
+allows multiple channels to be installed in the same location.
+Sensing Band with Excellent Chemical
+Resistance
+SUS316 and polyethylene are used for the Sensing Band's core and
+sheath to ensure high resistance to both acidic and alkaline liquids.
+Liquid Leakage Detection for Measuring
+Baths in CMP Devices
+Liquid leaked to drain pans can be detected to prevent damage to
+devices and cleaning irregularities for wafers.
+Detection of Condensation and Liquid
+Leakage at Semiconductor Production
+Installations
+Detection is also possible for condensation inside cleaning devices
+and liquid leaked to the surroundings.
+Detection of Liquid Leakage at Pipe Joints
+for Liquid Chemical Tanks
+Liquid leakage at a pipe joint can be detected by wrapping the
+Sensing Band around the joint.
+Detection of Cleaning Fluid Level for Plating
+Devices
+The level of pure water is detected inside plating baths. High
+sensitivity allows high-accuracy control to prevent cleaning
+irregularities.
+Reliable Detection of a Wide
+Variety of Liquids Ranging from
+Water to Liquid Chemicals with
+Low Conductivity. Four Sensing
+Ranges Available.
+• A lineup of new models compatible with Push-In Plus
+Terminal Block Sockets is available.
+• Series of plus common connection compatible
+products added.
+• UL listed when used with Push-In Plus Terminal Block
+Sockets. *1
+• Provides stable detection of liquids with impedance as
+high as 50 MΩ using inter-electrode resistance detection.
+Detection of IPA and pure water possible.
+• Higher noise immunity with a noise canceller circuit
+connected to a 3-conductor cable.
+• Prevents electrode corrosion with an AC detection method.
+• The power supply circuit and detection circuit are isolated, allowing several Amplifiers to be installed in the same place.
+• After a disconnection is detected, operating status is held to eliminate instability due to contact of the disconnected part. *2
+• Meets a variety of safety standards. *3
+Sensing Bands boast high degree of chemical resistance. The K7L can be used in a wide range of applications, from semiconductor
+production installations to food-processing equipment.
+Inter-electrode Resistance Detection
+Stable detection of liquids with impedances of up to 50 MΩ and common
+water. Four sensing ranges are available, ensuring detection suited to the
+application.
+AC Detection Method
+The K7L internally oscillates AC signals provided to the Sensing
+Band, protecting the Sensing Band from electric corrosion and
+ensuring safe operation.
+Noise Canceller Function (Patent Pending)
+The K7L incorporates a noise canceller circuit that uses a 3-conductor
+cable, ensuring a high level of noise immunity.
+Multi-channel Applications
+Isolation between the power supply circuits and sensing circuits
+allows multiple channels to be installed in the same location.
+Sensing Band with Excellent Chemical
+Resistance
+SUS316 and polyethylene are used for the Sensing Band's core and
+sheath to ensure high resistance to both acidic and alkaline liquids.
+Liquid Leakage Detection for Measuring
+Baths in CMP Devices
+Liquid leaked to drain pans can be detected to prevent damage to
+devices and cleaning irregularities for wafers.
+Detection of Condensation and Liquid
+Leakage at Semiconductor Production
+Installations
+Detection is also possible for condensation inside cleaning devices
+and liquid leaked to the surroundings.
+Detection of Liquid Leakage at Pipe Joints
+for Liquid Chemical Tanks
+Liquid leakage at a pipe joint can be detected by wrapping the
+Sensing Band around the joint.
+Detection of Cleaning Fluid Level for Plating
+Devices
+The level of pure water is detected inside plating baths. High
+sensitivity allows high-accuracy control to prevent cleaning
+irregularities.
+TLE4966 Hall Sensors
+Infineon TLE4966 Hall Sensors feature two integrated and calibrated sensor elements for detecting direction and counting indexes. This feature eliminates the need for a second sensor and cuts engineering and production costs. Using just one sensor also raises system quality and reliability. The TLE4966V is a further development of the TLE4966 family. The TLE4966V has the vertical orientation of the Hall plates which results in in-plane field sensitivity and enables entirely new application layouts. Designed in new technology, the TLE4966V offers high voltage capabilities with very small current consumption. The TLE4966V can be operated from unregulated power supplies, which offers our customers unique freedom of design for their system.
+DRV5055/DRV5055-Q1 Linear Hall Effect Sensor
+Texas Instruments DRV5055/DRV5055-Q1 Ratiometric Linear Hall Effect Sensor responds proportionally to magnetic flux density. The device can be used for accurate position sensing in a wide range of applications. The DRV5055/DRV5055-Q1 operates from 3.3V or 5V power supplies. When no magnetic field is present, the analog output drives half of VCC. The output changes linearly with the applied magnetic flux density, and four sensitivity options enable maximal output voltage swing based on the required sensing range. North and south magnetic poles produce unique voltages. Magnetic flux perpendicular to the top of the package is sensed, and the two package options provide different sensing directions. The device uses a ratiometric architecture that can eliminate error from VCC tolerance when the external analog-to-digital converter (ADC) uses the same VCC for its reference. Additionally, the DRV5055/DRV5055-Q1 features magnet temperature compensation to counteract how magnets drift for linear performance across a wide –40°C to 125°C temperature range. The DRV5055-Q1 devices are AEC-Q100 qualified for automotive applications.
+The DRV5055-Q1 is a linear Hall effect sensor that
+responds proportionally to magnetic flux density. The
+device can be used for accurate position sensing in a
+wide range of applications.
+The device operates from 3.3-V or 5-V power
+supplies. When no magnetic field is present, the
+analog output drives half of VCC. The output changes
+linearly with the applied magnetic flux density, and
+five sensitivity options enable maximal output voltage
+swing based on the required sensing range. North
+and south magnetic poles produce unique voltages.
+Magnetic flux perpendicular to the top of the package
+is sensed, and the two package options provide
+different sensing directions.
+The device uses a ratiometric architecture that can
+eliminate error from VCC tolerance when the external
+analog-to-digital converter (ADC) uses the same VCC
+for its reference. Additionally, the device features
+magnet temperature compensation to counteract how
+magnets drift for linear performance across a wide
+–40°C to +150°C temperature range.
