@@ -56,7 +56,8 @@ public class DevicePartDiscovery {
         return Collections.emptyMap();
     }
 
-    // --- Extension 1 ---
+    // --- Extension 1 --- 
+    // Refer to the section in the README on this for infornation you may need to complete it
     /**
      * Gets the 10 highest (TF-IDF) scored words for a catalog.
      *
@@ -69,6 +70,7 @@ public class DevicePartDiscovery {
     }
 
     // --- Extension 2 ---
+    // Refer to the section in the README on this task for infornation you may need to complete it
     /**
      * Calculates the IDF score for each word in a set of catalogs. The IDF score for a word
      * is equal to the inverse of the total number of times appears in all catalogs.
