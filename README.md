@@ -1,32 +1,11 @@
 # Mining Device Part Catalogs GILA 
 
-## GILA Roles
-
-### Read more about the roles: [GILA Roles](https://w.amazon.com/bin/view/Amazon_Technical_Academy/Internal/HowTos/GILARoles)
-
 ## Activity
 
 This activity will explore using `Map`s to mine data from catalog files. Data mining is the process 
 of exploring large sets of data for new information, anomalies, or meaningful patterns. 
 
-Before you start, complete the form below to assign a role to each member. 
-If you have 3 people, combine the **Presenter** and **Reflector**.
-
-|Team Roles	|Team Member	|
-|---	|---	|
-|**Recorder**: records all answers and questions, provides copies to team and facilitator.	|	|
-|**Presenter**: talks to facilitator and other teams.	|	|
-|**Manager**: keeps track of time and makes sure everyone contributes appropriately.	|	|
-|**Reflector**: considers how the team could work and learn more effectively.	|	|
-
-You should complete the coding portion of this activity on the branch: `maps-classroom`. Individual code 
-browser links will be submitted via a Canvas quiz after you have completed the activity.
-
 ## PART A - `calculateWordCounts`
-
-|A. `calculateWordCounts`	|Start time:	|
-|---	|---	|
-| 25 minutes	|	|
 
 To find newly released parts and technology, Amazon is experimenting with mining data from 
 part manufacturer catalogs. This process has not yet been perfected. Manufacturers release 
@@ -84,29 +63,18 @@ public class PartCatalog {
    What method exposed by the `PartCatalog` class can be used to get all the words in the catalog?
 
    
-1. Individually, implement the `calculateWordCounts()` method in the `DevicePartDiscovery` class in the 
+1. Implement the `calculateWordCounts()` method in the `DevicePartDiscovery` class in the 
    `com.amazon.ata.maps.partsdiscovery` package. The tests in 
    `DevicePartDiscoveryCalculateWordCountsTest` will ensure you have implemented it correctly. 
    You can run these from IntelliJ or use the gradle command `./gradlew -q clean :test --tests DevicePartDiscoveryWordCountsTest` to execute these tests. 
    When your tests are passing, check the box next to your role. If you get stuck, use your group! If your 
    question still can’t be answered, request that an instructor visits your group.
 
-   [] Recorder
-   
-   [] Presenter
-   
-   [] Manager
-   
-   [] Reflector
 
 1. EXTENSION: Consider the Map method [`getOrDefault()`](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html#getOrDefault-java.lang.Object-V-). 
    Can you simplify the implementation of `calculateWordCounts()` by using this method?
 
 ## PART B - `removeWord`
-
-|B. `removeWord`	|Start time:	|
-|---	|---	|
-| 10 minutes 	|	|
 
 It turns out there are quite a few words that are mentioned a lot, but aren’t relevant. This 
 includes words like  “the”, “a”, “is”, etc. We need a way to remove these words from our word 
@@ -118,7 +86,7 @@ count map. Next, you will be implementing the method: `void removeWord(String wo
 
 1. Describe the algorithm you think HashMap uses to remove the **entry** from its internal representation.
 
-1. Individually, implement the `removeWord()` method in the `DevicePartDiscovery` class. 
+1. Implement the `removeWord()` method in the `DevicePartDiscovery` class. 
    The tests in `DevicePartDiscoveryRemoveWordTest` will ensure you have implemented it 
    correctly. You can run these from IntelliJ or run the 
    `./gradlew -q clean :test --tests DevicePartDiscoveryRemoveWordTest` 
@@ -126,19 +94,7 @@ count map. Next, you will be implementing the method: `void removeWord(String wo
    get stuck, use your group! If your question still can’t be answered, request that an 
    instructor visits your group.
 
-   [] Recorder
-   
-   [] Presenter
-   
-   [] Manager
-   
-   [] Reflector
-
 ## PART C - `getMostFrequentWord`
-
-|C. `getMostFrequentWord`	|Start time:	|
-|---	|---	|
-| 15 minutes	|	|
 
 Now that we’ve removed the common words from our word count map, let’s find the most 
 frequent word in our word counts map. You will be implementing the method: 
@@ -153,26 +109,15 @@ frequent word in our word counts map. You will be implementing the method:
 
 1. What is the return type of the Map operation you answered for question 3? 
 
-1. Individually, implement the `getMostFrequentWord()` method in the `DevicePartDiscovery` 
+1. Implement the `getMostFrequentWord()` method in the `DevicePartDiscovery` 
    class. The tests in `DevicePartDiscoveryGetMostFrequentWordTest` will ensure you have 
    implemented it correctly. You can run these from IntelliJ or run the 
    `./gradlew -q clean :test --tests DevicePartDiscoveryGetMostFrequentWordTest` gradle command to execute these tests. When your tests are passing, 
    check the box next to your role. If you get stuck, use your group! If your question still can’t 
    be answered, request that an instructor visits your group.
 
-   [] Recorder
-   
-   [] Presenter
-   
-   [] Manager
-   
-   [] Reflector
 
 ## PART D - `getTfIdfScores`
-
-|D. `getTfIdfScores`	|Start time:	|
-|---	|---	|
-| 20 minutes 	|	|
 
 This still isn’t highlighting the words we were hoping to find. There seems to be a lot 
 of noise (when we say there is noise in the data, we might mean corrupted data or in 
@@ -234,14 +179,7 @@ word in a catalog. The wordCounts are provided to you, as well as the TF-IDF sco
    use your group! If your question still can’t be answered, request that an instructor 
    visits your group.
 
-   [] Recorder
-   
-   [] Presenter
-   
-   [] Manager
-   
-   [] Reflector
-
+ 
 ## EXTENSION 1 - `getBestScoredWords`
 
 Now that we have implemented a method to get the TF-IDF scores for each word, we now have completed the 
@@ -269,13 +207,6 @@ You will be implementing the method:
    use your group! If you are still stuck, and are working on this outside of class time, please file
    a CQA and sign up for Office Hours to discuss this with an instructor or TA.
    
-   [] Recorder
-  
-   [] Presenter
-  
-   [] Manager
-  
-   [] Reflector
 
 ## EXTENSION 2 - `getIdfScores`
 Returning the best-matched words for a catalog (using TF-IDF) requires implementation of the
@@ -340,13 +271,5 @@ Before implementing, consider:
    use your group! If you are still stuck, and are working on this outside of class time, please file
    a CQA and sign up for Office Hours to discuss this with an instructor or TA.
    
-   [] Recorder
-  
-   [] Presenter
-  
-   [] Manager
-  
-   [] Reflector
- 
 When you have completed all of these steps and extensions, make sure to celebrate! You have
 successfully implemented a TF-IDF word-scoring algorithm end-to-end!
