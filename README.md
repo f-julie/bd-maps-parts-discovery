@@ -22,8 +22,7 @@ will return counts for each word in the catalog.
 
 Implement the `calculateWordCounts()` method in the `DevicePartDiscovery` class in the `com.amazon.ata.maps.partsdiscovery` package. 
 
-The tests in  `DevicePartDiscoveryCalculateWordCountsTest` will ensure you have implemented it correctly. You can run these from IntelliJ or use the gradle command `./gradlew -q clean :test --tests DevicePartDiscoveryWordCountsTest` to execute these tests. 
-
+The tests in  `DevicePartDiscoveryCalculateWordCountsTest` will ensure you have implemented it correctly. You can run these from IntelliJ.
 
 ## PART B - `removeWord`
 
@@ -33,8 +32,7 @@ count map. Next, you will be implementing the method: `void removeWord(String wo
 
 Implement the `removeWord()` method in the `DevicePartDiscovery` class. 
    
-The tests in `DevicePartDiscoveryRemoveWordTest` will ensure you have implemented it correctly. You can run these from IntelliJ or run the 
-   `./gradlew -q clean :test --tests DevicePartDiscoveryRemoveWordTest` gradle command to execute these tests. 
+The tests in `DevicePartDiscoveryRemoveWordTest` will ensure you have implemented it correctly. You can run these from IntelliJ.
 
 
 ## PART C - `getMostFrequentWord`
@@ -47,9 +45,7 @@ Implement the `getMostFrequentWord()` method in the `DevicePartDiscovery`
    class. 
 
 The tests in `DevicePartDiscoveryGetMostFrequentWordTest` will ensure you have 
-   implemented it correctly. You can run these from IntelliJ or run the 
-   `./gradlew -q clean :test --tests DevicePartDiscoveryGetMostFrequentWordTest` gradle command to execute these tests. 
-
+   implemented it correctly. You can run these from Intellij.
 ## PART D - `getTfIdfScores`
 
 This still isn’t highlighting the words we were hoping to find. There seems to be a lot 
@@ -100,6 +96,5 @@ Implement the `getTfIdfScores()` method in the `DevicePartDiscovery` class in
    the `com.amazon.ata.maps.partsdiscovery` package. 
 
 The tests in 
-   `DevicePartDiscoveryCalculateTfIdfScoresTest` will ensure you have implemented it correctly. You 
-   can run these from IntelliJ or run the `./gradlew -q clean :test --tests DevicePartDiscoveryCalculateTfIdfScoresTest` gradle command to execute these 
-   tests.
+   `DevicePartDiscoveryGetTfIdfScoresTest` will ensure you have implemented it correctly. You 
+   can run these from IntelliJ.
