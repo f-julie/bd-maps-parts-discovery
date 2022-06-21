@@ -55,33 +55,4 @@ public class DevicePartDiscovery {
         // PARTICIPANTS: Implement getTfIdfScores()
         return Collections.emptyMap();
     }
-
-    // --- Extension 1 --- 
-    // Refer to the section in the README on this for infornation you may need to complete it
-    /**
-     * Gets the 10 highest (TF-IDF) scored words for a catalog.
-     *
-     * @param tfIdfScores - associates a TF-IDF score for each word in a catalog
-     * @return a list of the 10 highest scored words for a catalog.
-     */
-    public List<String> getBestScoredWords(Map<String, Double> tfIdfScores) {
-        // PARTICIPANTS: Implement getBestScoredWords()
-        return Collections.emptyList();
-    }
-
-    // --- Extension 2 ---
-    // Refer to the section in the README on this task for infornation you may need to complete it
-    /**
-     * Calculates the IDF score for each word in a set of catalogs. The IDF score for a word
-     * is equal to the inverse of the total number of times appears in all catalogs.
-     * Assume df is the sum of the counts of a single word across all catalogs, then idf = 1.0/df.
-     *
-     * @param catalogWordCounts - a list of maps that associate a count for each word for each catalog
-     * @return a map associating each word with its IDF score.
-     */
-    public Map<String, Double> calculateIdfScores(List<Map<String,Integer>> catalogWordCounts) {
-        // PARTICIPANTS: Implement getIdfScores()
-        return Collections.emptyMap();
-    }
-
 }
